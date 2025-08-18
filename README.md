@@ -1,5 +1,3 @@
-Perfeito! Aqui está o seu `README.md` completo, corrigido e pronto para GitHub:
-
 ````markdown
 # 📦 Coleta Robusta de Repositórios do GitHub  
 
