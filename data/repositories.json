@@ -1,0 +1,1515 @@
+[
+    {
+        "nameWithOwner": "freeCodeCamp/freeCodeCamp",
+        "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+        "createdAt": "2014-12-24T17:49:19Z",
+        "pushedAt": "2025-08-20T16:03:21Z",
+        "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
+        "stargazerCount": 426108,
+        "forkCount": 41240,
+        "watchers": {
+            "totalCount": 8586
+        },
+        "issues": {
+            "totalCount": 192
+        },
+        "issuesClosed": {
+            "totalCount": 19634
+        },
+        "pullRequests": {
+            "totalCount": 106
+        },
+        "pullRequestsMerged": {
+            "totalCount": 25720
+        },
+        "pullRequestsClosed": {
+            "totalCount": 15358
+        },
+        "releases": {
+            "totalCount": 0
+        },
+        "primaryLanguage": {
+            "name": "TypeScript"
+        },
+        "diskUsage": 511198,
+        "licenseInfo": {
+            "name": "BSD 3-Clause \"New\" or \"Revised\" License",
+            "spdxId": "BSD-3-Clause"
+        },
+        "topics": {
+            "nodes": [
+                {
+                    "topic": {
+                        "name": "learn-to-code"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "nonprofits"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "programming"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "nodejs"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "react"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "d3"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "careers"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "education"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "teachers"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "javascript"
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "nameWithOwner": "codecrafters-io/build-your-own-x",
+        "url": "https://github.com/codecrafters-io/build-your-own-x",
+        "createdAt": "2018-05-09T12:03:18Z",
+        "pushedAt": "2025-07-29T21:02:41Z",
+        "description": "Master programming by recreating your favorite technologies from scratch.",
+        "stargazerCount": 412275,
+        "forkCount": 38669,
+        "watchers": {
+            "totalCount": 6208
+        },
+        "issues": {
+            "totalCount": 227
+        },
+        "issuesClosed": {
+            "totalCount": 595
+        },
+        "pullRequests": {
+            "totalCount": 189
+        },
+        "pullRequestsMerged": {
+            "totalCount": 142
+        },
+        "pullRequestsClosed": {
+            "totalCount": 149
+        },
+        "releases": {
+            "totalCount": 0
+        },
+        "primaryLanguage": {
+            "name": "Markdown"
+        },
+        "diskUsage": 1079,
+        "licenseInfo": null,
+        "topics": {
+            "nodes": [
+                {
+                    "topic": {
+                        "name": "programming"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "tutorials"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "tutorial-code"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "tutorial-exercises"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "free"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "awesome-list"
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "nameWithOwner": "sindresorhus/awesome",
+        "url": "https://github.com/sindresorhus/awesome",
+        "createdAt": "2014-07-11T13:42:37Z",
+        "pushedAt": "2025-07-18T18:37:33Z",
+        "description": "😎 Awesome lists about all kinds of interesting topics",
+        "stargazerCount": 393493,
+        "forkCount": 31275,
+        "watchers": {
+            "totalCount": 8002
+        },
+        "issues": {
+            "totalCount": 13
+        },
+        "issuesClosed": {
+            "totalCount": 340
+        },
+        "pullRequests": {
+            "totalCount": 39
+        },
+        "pullRequestsMerged": {
+            "totalCount": 679
+        },
+        "pullRequestsClosed": {
+            "totalCount": 1463
+        },
+        "releases": {
+            "totalCount": 0
+        },
+        "primaryLanguage": null,
+        "diskUsage": 1500,
+        "licenseInfo": {
+            "name": "Creative Commons Zero v1.0 Universal",
+            "spdxId": "CC0-1.0"
+        },
+        "topics": {
+            "nodes": [
+                {
+                    "topic": {
+                        "name": "awesome"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "awesome-list"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "unicorns"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "lists"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "resources"
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "nameWithOwner": "EbookFoundation/free-programming-books",
+        "url": "https://github.com/EbookFoundation/free-programming-books",
+        "createdAt": "2013-10-11T06:50:37Z",
+        "pushedAt": "2025-08-17T15:03:15Z",
+        "description": ":books: Freely available programming books",
+        "stargazerCount": 365455,
+        "forkCount": 63923,
+        "watchers": {
+            "totalCount": 9874
+        },
+        "issues": {
+            "totalCount": 31
+        },
+        "issuesClosed": {
+            "totalCount": 1150
+        },
+        "pullRequests": {
+            "totalCount": 9
+        },
+        "pullRequestsMerged": {
+            "totalCount": 6820
+        },
+        "pullRequestsClosed": {
+            "totalCount": 3661
+        },
+        "releases": {
+            "totalCount": 0
+        },
+        "primaryLanguage": {
+            "name": "Python"
+        },
+        "diskUsage": 19603,
+        "licenseInfo": {
+            "name": "Creative Commons Attribution 4.0 International",
+            "spdxId": "CC-BY-4.0"
+        },
+        "topics": {
+            "nodes": [
+                {
+                    "topic": {
+                        "name": "education"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "books"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "list"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "resource"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "hacktoberfest"
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "nameWithOwner": "public-apis/public-apis",
+        "url": "https://github.com/public-apis/public-apis",
+        "createdAt": "2016-03-20T23:49:42Z",
+        "pushedAt": "2025-05-20T15:56:34Z",
+        "description": "A collective list of free APIs",
+        "stargazerCount": 362009,
+        "forkCount": 37995,
+        "watchers": {
+            "totalCount": 4352
+        },
+        "issues": {
+            "totalCount": 8
+        },
+        "issuesClosed": {
+            "totalCount": 704
+        },
+        "pullRequests": {
+            "totalCount": 542
+        },
+        "pullRequestsMerged": {
+            "totalCount": 1872
+        },
+        "pullRequestsClosed": {
+            "totalCount": 1140
+        },
+        "releases": {
+            "totalCount": 0
+        },
+        "primaryLanguage": {
+            "name": "Python"
+        },
+        "diskUsage": 4771,
+        "licenseInfo": {
+            "name": "MIT License",
+            "spdxId": "MIT"
+        },
+        "topics": {
+            "nodes": [
+                {
+                    "topic": {
+                        "name": "api"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "public-apis"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "free"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "apis"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "list"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "development"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "software"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "public"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "resources"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "dataset"
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "nameWithOwner": "kamranahmedse/developer-roadmap",
+        "url": "https://github.com/kamranahmedse/developer-roadmap",
+        "createdAt": "2017-03-15T13:45:52Z",
+        "pushedAt": "2025-08-20T16:54:08Z",
+        "description": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
+        "stargazerCount": 334185,
+        "forkCount": 42595,
+        "watchers": {
+            "totalCount": 6857
+        },
+        "issues": {
+            "totalCount": 248
+        },
+        "issuesClosed": {
+            "totalCount": 2693
+        },
+        "pullRequests": {
+            "totalCount": 24
+        },
+        "pullRequestsMerged": {
+            "totalCount": 3690
+        },
+        "pullRequestsClosed": {
+            "totalCount": 1659
+        },
+        "releases": {
+            "totalCount": 1
+        },
+        "primaryLanguage": {
+            "name": "TypeScript"
+        },
+        "diskUsage": 307718,
+        "licenseInfo": {
+            "name": "Other",
+            "spdxId": "NOASSERTION"
+        },
+        "topics": {
+            "nodes": [
+                {
+                    "topic": {
+                        "name": "computer-science"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "roadmap"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "developer-roadmap"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "frontend-roadmap"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "devops-roadmap"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "backend-roadmap"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "react-roadmap"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "angular-roadmap"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "python-roadmap"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "go-roadmap"
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "nameWithOwner": "jwasham/coding-interview-university",
+        "url": "https://github.com/jwasham/coding-interview-university",
+        "createdAt": "2016-06-06T02:34:12Z",
+        "pushedAt": "2024-12-05T23:47:30Z",
+        "description": "A complete computer science study plan to become a software engineer.",
+        "stargazerCount": 324561,
+        "forkCount": 79892,
+        "watchers": {
+            "totalCount": 8490
+        },
+        "issues": {
+            "totalCount": 63
+        },
+        "issuesClosed": {
+            "totalCount": 453
+        },
+        "pullRequests": {
+            "totalCount": 15
+        },
+        "pullRequestsMerged": {
+            "totalCount": 415
+        },
+        "pullRequestsClosed": {
+            "totalCount": 593
+        },
+        "releases": {
+            "totalCount": 0
+        },
+        "primaryLanguage": null,
+        "diskUsage": 22600,
+        "licenseInfo": {
+            "name": "Creative Commons Attribution Share Alike 4.0 International",
+            "spdxId": "CC-BY-SA-4.0"
+        },
+        "topics": {
+            "nodes": [
+                {
+                    "topic": {
+                        "name": "computer-science"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "interview"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "programming-interviews"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "study-plan"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "data-structures"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "algorithms"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "software-engineering"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "algorithm"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "coding-interviews"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "interview-prep"
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "nameWithOwner": "donnemartin/system-design-primer",
+        "url": "https://github.com/donnemartin/system-design-primer",
+        "createdAt": "2017-02-26T16:15:28Z",
+        "pushedAt": "2025-05-21T11:13:33Z",
+        "description": "Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.",
+        "stargazerCount": 316652,
+        "forkCount": 51869,
+        "watchers": {
+            "totalCount": 6792
+        },
+        "issues": {
+            "totalCount": 248
+        },
+        "issuesClosed": {
+            "totalCount": 91
+        },
+        "pullRequests": {
+            "totalCount": 266
+        },
+        "pullRequestsMerged": {
+            "totalCount": 200
+        },
+        "pullRequestsClosed": {
+            "totalCount": 137
+        },
+        "releases": {
+            "totalCount": 0
+        },
+        "primaryLanguage": {
+            "name": "Python"
+        },
+        "diskUsage": 11239,
+        "licenseInfo": {
+            "name": "Other",
+            "spdxId": "NOASSERTION"
+        },
+        "topics": {
+            "nodes": [
+                {
+                    "topic": {
+                        "name": "programming"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "development"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "design"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "design-system"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "system"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "design-patterns"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "web"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "web-application"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "webapp"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "python"
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "nameWithOwner": "996icu/996.ICU",
+        "url": "https://github.com/996icu/996.ICU",
+        "createdAt": "2019-03-26T07:31:14Z",
+        "pushedAt": "2024-10-03T12:29:12Z",
+        "description": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.",
+        "stargazerCount": 274101,
+        "forkCount": 21070,
+        "watchers": {
+            "totalCount": 4216
+        },
+        "issues": {
+            "totalCount": 0
+        },
+        "issuesClosed": {
+            "totalCount": 0
+        },
+        "pullRequests": {
+            "totalCount": 9
+        },
+        "pullRequestsMerged": {
+            "totalCount": 1067
+        },
+        "pullRequestsClosed": {
+            "totalCount": 915
+        },
+        "releases": {
+            "totalCount": 0
+        },
+        "primaryLanguage": null,
+        "diskUsage": 187831,
+        "licenseInfo": {
+            "name": "Other",
+            "spdxId": "NOASSERTION"
+        },
+        "topics": {
+            "nodes": []
+        }
+    },
+    {
+        "nameWithOwner": "vinta/awesome-python",
+        "url": "https://github.com/vinta/awesome-python",
+        "createdAt": "2014-06-27T21:00:06Z",
+        "pushedAt": "2025-07-17T16:35:51Z",
+        "description": "An opinionated list of awesome Python frameworks, libraries, software and resources.",
+        "stargazerCount": 255904,
+        "forkCount": 26156,
+        "watchers": {
+            "totalCount": 6118
+        },
+        "issues": {
+            "totalCount": 0
+        },
+        "issuesClosed": {
+            "totalCount": 0
+        },
+        "pullRequests": {
+            "totalCount": 470
+        },
+        "pullRequestsMerged": {
+            "totalCount": 544
+        },
+        "pullRequestsClosed": {
+            "totalCount": 1046
+        },
+        "releases": {
+            "totalCount": 0
+        },
+        "primaryLanguage": {
+            "name": "Python"
+        },
+        "diskUsage": 6839,
+        "licenseInfo": {
+            "name": "Other",
+            "spdxId": "NOASSERTION"
+        },
+        "topics": {
+            "nodes": [
+                {
+                    "topic": {
+                        "name": "awesome"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "python"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "collections"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "python-library"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "python-framework"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "python-resources"
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "nameWithOwner": "awesome-selfhosted/awesome-selfhosted",
+        "url": "https://github.com/awesome-selfhosted/awesome-selfhosted",
+        "createdAt": "2015-06-01T02:33:17Z",
+        "pushedAt": "2025-08-17T13:42:00Z",
+        "description": "A list of Free Software network services and web applications which can be hosted on your own servers",
+        "stargazerCount": 242826,
+        "forkCount": 11250,
+        "watchers": {
+            "totalCount": 2930
+        },
+        "issues": {
+            "totalCount": 0
+        },
+        "issuesClosed": {
+            "totalCount": 806
+        },
+        "pullRequests": {
+            "totalCount": 0
+        },
+        "pullRequestsMerged": {
+            "totalCount": 2394
+        },
+        "pullRequestsClosed": {
+            "totalCount": 643
+        },
+        "releases": {
+            "totalCount": 1
+        },
+        "primaryLanguage": null,
+        "diskUsage": 16583,
+        "licenseInfo": {
+            "name": "Other",
+            "spdxId": "NOASSERTION"
+        },
+        "topics": {
+            "nodes": [
+                {
+                    "topic": {
+                        "name": "selfhosted"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "awesome"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "awesome-list"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "privacy"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "hosting"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "cloud"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "self-hosted"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "free-software"
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "nameWithOwner": "practical-tutorials/project-based-learning",
+        "url": "https://github.com/practical-tutorials/project-based-learning",
+        "createdAt": "2017-04-12T05:07:46Z",
+        "pushedAt": "2024-08-15T05:33:54Z",
+        "description": "Curated list of project-based tutorials",
+        "stargazerCount": 240261,
+        "forkCount": 31436,
+        "watchers": {
+            "totalCount": 3390
+        },
+        "issues": {
+            "totalCount": 130
+        },
+        "issuesClosed": {
+            "totalCount": 79
+        },
+        "pullRequests": {
+            "totalCount": 108
+        },
+        "pullRequestsMerged": {
+            "totalCount": 182
+        },
+        "pullRequestsClosed": {
+            "totalCount": 180
+        },
+        "releases": {
+            "totalCount": 0
+        },
+        "primaryLanguage": null,
+        "diskUsage": 438,
+        "licenseInfo": {
+            "name": "MIT License",
+            "spdxId": "MIT"
+        },
+        "topics": {
+            "nodes": [
+                {
+                    "topic": {
+                        "name": "tutorial"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "project"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "beginner-project"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "webdevelopment"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "python"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "javascript"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "cpp"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "golang"
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "nameWithOwner": "facebook/react",
+        "url": "https://github.com/facebook/react",
+        "createdAt": "2013-05-24T16:15:54Z",
+        "pushedAt": "2025-08-20T15:31:42Z",
+        "description": "The library for web and native user interfaces.",
+        "stargazerCount": 238256,
+        "forkCount": 49169,
+        "watchers": {
+            "totalCount": 6716
+        },
+        "issues": {
+            "totalCount": 798
+        },
+        "issuesClosed": {
+            "totalCount": 13192
+        },
+        "pullRequests": {
+            "totalCount": 220
+        },
+        "pullRequestsMerged": {
+            "totalCount": 12114
+        },
+        "pullRequestsClosed": {
+            "totalCount": 5604
+        },
+        "releases": {
+            "totalCount": 105
+        },
+        "primaryLanguage": {
+            "name": "JavaScript"
+        },
+        "diskUsage": 1096872,
+        "licenseInfo": {
+            "name": "MIT License",
+            "spdxId": "MIT"
+        },
+        "topics": {
+            "nodes": [
+                {
+                    "topic": {
+                        "name": "javascript"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "react"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "frontend"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "declarative"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "ui"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "library"
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "nameWithOwner": "vuejs/vue",
+        "url": "https://github.com/vuejs/vue",
+        "createdAt": "2013-07-29T03:24:51Z",
+        "pushedAt": "2024-10-10T07:24:15Z",
+        "description": "This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core",
+        "stargazerCount": 209282,
+        "forkCount": 33739,
+        "watchers": {
+            "totalCount": 5812
+        },
+        "issues": {
+            "totalCount": 355
+        },
+        "issuesClosed": {
+            "totalCount": 9673
+        },
+        "pullRequests": {
+            "totalCount": 247
+        },
+        "pullRequestsMerged": {
+            "totalCount": 1133
+        },
+        "pullRequestsClosed": {
+            "totalCount": 1204
+        },
+        "releases": {
+            "totalCount": 249
+        },
+        "primaryLanguage": {
+            "name": "TypeScript"
+        },
+        "diskUsage": 32152,
+        "licenseInfo": {
+            "name": "MIT License",
+            "spdxId": "MIT"
+        },
+        "topics": {
+            "nodes": [
+                {
+                    "topic": {
+                        "name": "vue"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "javascript"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "frontend"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "framework"
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "nameWithOwner": "TheAlgorithms/Python",
+        "url": "https://github.com/TheAlgorithms/Python",
+        "createdAt": "2016-07-16T09:44:01Z",
+        "pushedAt": "2025-08-19T14:16:04Z",
+        "description": "All Algorithms implemented in Python",
+        "stargazerCount": 204217,
+        "forkCount": 47334,
+        "watchers": {
+            "totalCount": 5968
+        },
+        "issues": {
+            "totalCount": 76
+        },
+        "issuesClosed": {
+            "totalCount": 1511
+        },
+        "pullRequests": {
+            "totalCount": 360
+        },
+        "pullRequestsMerged": {
+            "totalCount": 2976
+        },
+        "pullRequestsClosed": {
+            "totalCount": 7361
+        },
+        "releases": {
+            "totalCount": 0
+        },
+        "primaryLanguage": {
+            "name": "Python"
+        },
+        "diskUsage": 15436,
+        "licenseInfo": {
+            "name": "MIT License",
+            "spdxId": "MIT"
+        },
+        "topics": {
+            "nodes": [
+                {
+                    "topic": {
+                        "name": "python"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "algorithm"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "algorithms-implemented"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "algorithm-competitions"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "algos"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "sorts"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "searches"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "sorting-algorithms"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "education"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "learn"
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "nameWithOwner": "torvalds/linux",
+        "url": "https://github.com/torvalds/linux",
+        "createdAt": "2011-09-04T22:48:12Z",
+        "pushedAt": "2025-08-19T17:32:18Z",
+        "description": "Linux kernel source tree",
+        "stargazerCount": 200296,
+        "forkCount": 57390,
+        "watchers": {
+            "totalCount": 7777
+        },
+        "issues": {
+            "totalCount": 0
+        },
+        "issuesClosed": {
+            "totalCount": 0
+        },
+        "pullRequests": {
+            "totalCount": 485
+        },
+        "pullRequestsMerged": {
+            "totalCount": 10
+        },
+        "pullRequestsClosed": {
+            "totalCount": 715
+        },
+        "releases": {
+            "totalCount": 0
+        },
+        "primaryLanguage": {
+            "name": "C"
+        },
+        "diskUsage": 5656316,
+        "licenseInfo": {
+            "name": "Other",
+            "spdxId": "NOASSERTION"
+        },
+        "topics": {
+            "nodes": []
+        }
+    },
+    {
+        "nameWithOwner": "trekhleb/javascript-algorithms",
+        "url": "https://github.com/trekhleb/javascript-algorithms",
+        "createdAt": "2018-03-24T07:47:04Z",
+        "pushedAt": "2025-02-12T16:19:59Z",
+        "description": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+        "stargazerCount": 193042,
+        "forkCount": 30848,
+        "watchers": {
+            "totalCount": 4280
+        },
+        "issues": {
+            "totalCount": 137
+        },
+        "issuesClosed": {
+            "totalCount": 229
+        },
+        "pullRequests": {
+            "totalCount": 231
+        },
+        "pullRequestsMerged": {
+            "totalCount": 302
+        },
+        "pullRequestsClosed": {
+            "totalCount": 254
+        },
+        "releases": {
+            "totalCount": 0
+        },
+        "primaryLanguage": {
+            "name": "JavaScript"
+        },
+        "diskUsage": 13564,
+        "licenseInfo": {
+            "name": "MIT License",
+            "spdxId": "MIT"
+        },
+        "topics": {
+            "nodes": [
+                {
+                    "topic": {
+                        "name": "javascript"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "algorithms"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "algorithm"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "javascript-algorithms"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "computer-science"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "interview"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "data-structures"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "interview-preparation"
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "nameWithOwner": "tensorflow/tensorflow",
+        "url": "https://github.com/tensorflow/tensorflow",
+        "createdAt": "2015-11-07T01:19:20Z",
+        "pushedAt": "2025-08-20T17:52:52Z",
+        "description": "An Open Source Machine Learning Framework for Everyone",
+        "stargazerCount": 191254,
+        "forkCount": 74786,
+        "watchers": {
+            "totalCount": 7456
+        },
+        "issues": {
+            "totalCount": 898
+        },
+        "issuesClosed": {
+            "totalCount": 39837
+        },
+        "pullRequests": {
+            "totalCount": 616
+        },
+        "pullRequestsMerged": {
+            "totalCount": 35931
+        },
+        "pullRequestsClosed": {
+            "totalCount": 19855
+        },
+        "releases": {
+            "totalCount": 219
+        },
+        "primaryLanguage": {
+            "name": "C++"
+        },
+        "diskUsage": 1190745,
+        "licenseInfo": {
+            "name": "Apache License 2.0",
+            "spdxId": "Apache-2.0"
+        },
+        "topics": {
+            "nodes": [
+                {
+                    "topic": {
+                        "name": "tensorflow"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "machine-learning"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "python"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "deep-learning"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "deep-neural-networks"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "neural-network"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "ml"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "distributed"
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "nameWithOwner": "ossu/computer-science",
+        "url": "https://github.com/ossu/computer-science",
+        "createdAt": "2014-05-04T00:18:39Z",
+        "pushedAt": "2025-07-17T02:38:25Z",
+        "description": "🎓 Path to a free self-taught education in Computer Science!",
+        "stargazerCount": 190677,
+        "forkCount": 23798,
+        "watchers": {
+            "totalCount": 5908
+        },
+        "issues": {
+            "totalCount": 14
+        },
+        "issuesClosed": {
+            "totalCount": 638
+        },
+        "pullRequests": {
+            "totalCount": 1
+        },
+        "pullRequestsMerged": {
+            "totalCount": 298
+        },
+        "pullRequestsClosed": {
+            "totalCount": 185
+        },
+        "releases": {
+            "totalCount": 0
+        },
+        "primaryLanguage": {
+            "name": "HTML"
+        },
+        "diskUsage": 1766,
+        "licenseInfo": {
+            "name": "MIT License",
+            "spdxId": "MIT"
+        },
+        "topics": {
+            "nodes": [
+                {
+                    "topic": {
+                        "name": "computer-science"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "awesome-list"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "courses"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "curriculum"
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "nameWithOwner": "trimstray/the-book-of-secret-knowledge",
+        "url": "https://github.com/trimstray/the-book-of-secret-knowledge",
+        "createdAt": "2018-06-23T10:43:14Z",
+        "pushedAt": "2024-11-19T14:00:38Z",
+        "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
+        "stargazerCount": 183024,
+        "forkCount": 11387,
+        "watchers": {
+            "totalCount": 2654
+        },
+        "issues": {
+            "totalCount": 0
+        },
+        "issuesClosed": {
+            "totalCount": 0
+        },
+        "pullRequests": {
+            "totalCount": 95
+        },
+        "pullRequestsMerged": {
+            "totalCount": 122
+        },
+        "pullRequestsClosed": {
+            "totalCount": 102
+        },
+        "releases": {
+            "totalCount": 0
+        },
+        "primaryLanguage": null,
+        "diskUsage": 1748,
+        "licenseInfo": {
+            "name": "MIT License",
+            "spdxId": "MIT"
+        },
+        "topics": {
+            "nodes": [
+                {
+                    "topic": {
+                        "name": "awesome"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "awesome-list"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "lists"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "manuals"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "resources"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "howtos"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "hacks"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "search-engines"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "one-liners"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "cheatsheets"
+                    }
+                }
+            ]
+        }
+    }
+]

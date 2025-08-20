@@ -1,146 +1,200 @@
-````markdown
-# 📦 Coleta Robusta de Repositórios do GitHub  
+```markdown
+# GitHub Repo Fetch
 
-Este projeto realiza uma **consulta GraphQL na API do GitHub** para coletar dados completos de até **100 repositórios populares** (ordenados por número de estrelas).  
-
-O script foi implementado de forma **robusta**, incluindo tratamento de erros, retries automáticos e pausas entre requisições para evitar bloqueios.  
-
----
-
-## 🚀 Funcionalidades  
-- Consulta até **100 repositórios** via GraphQL.  
-- Coleta informações detalhadas como:  
-  - Nome e URL  
-  - Datas de criação e último push  
-  - Estrelas ⭐, forks 🍴, watchers 👀  
-  - Issues abertas/fechadas  
-  - Pull requests (abertos, fechados e mesclados)  
-  - Releases publicadas  
-  - Linguagem principal  
-  - Licença  
-  - Tópicos associados  
-  - Uso em disco (diskUsage)  
-- Retry automático em caso de falha ou timeout.  
-- Salva os resultados em um arquivo `.json`.  
+[![Python](https://img.shields.io/badge/Python-3.10+-blue)](https://www.python.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green)](https://opensource.org/licenses/MIT)
 
 ---
 
-## ⚙️ Requisitos  
+## Descrição
 
-- Python 3.8+  
-- Bibliotecas:  
-  ```bash
-  pip install requests
+O **GitHub Repo Fetch** é uma ferramenta em Python que coleta informações detalhadas de repositórios públicos do GitHub usando a API GraphQL. Os dados são salvos em **CSV** e **JSON**, permitindo análises, relatórios e integração com outras ferramentas.
+
+O projeto é útil para:
+
+- Análise de métricas de repositórios.
+- Monitoramento de projetos open-source.
+- Criação de dashboards e relatórios automáticos.
+- Estudos de popularidade de linguagens, tópicos e licenças.
+
+---
+
+## Funcionalidades
+
+- Busca repositórios públicos em lotes configuráveis.
+- Coleta dados detalhados:
+  - Nome do repositório e URL
+  - Datas de criação e último push
+  - Descrição
+  - Estrelas, forks, watchers
+  - Issues abertas e fechadas
+  - Pull requests abertas, fechadas e mescladas
+  - Contagem de releases
+  - Linguagem principal
+  - Uso de disco
+  - Licença (nome e SPDX)
+  - Tópicos associados
+- Gera arquivos:
+  - `CSV` (excel-friendly)
+  - `JSON` (para manipulação programática)
+- Tratamento automático de campos ausentes (evita erros `NoneType`).
+
+---
+
+## Estrutura do Projeto
+
+```
+
+github-repo-fetch/
+├── data/                  # Arquivos gerados (CSV e JSON)
+├── src/
+│   └── save\_data.py       # Funções para salvar CSV e JSON
+├── main.py                # Script principal de execução
+└── README.md
+
+## Estrutura do Projeto
+
+```
+
+github-repo-fetch/
+├── data/                  # Arquivos gerados (CSV e JSON)
+├── src/
+│   └── save\_data.py       # Funções para salvar CSV e JSON
+├── main.py                # Script principal de execução
+└── README.md
+
 ````
 
 ---
 
-## 🔑 Configuração do Token
+## Requisitos
 
-1. Gere um **Personal Access Token (PAT)** no GitHub:
+- **Python 3.10+**
+- Bibliotecas Python:
+```bash
+pip install requests python-dotenv
+````
 
-   * Acesse [https://github.com/settings/tokens](https://github.com/settings/tokens)
-   * Crie um token com permissão **`read:public_repo`**
-
-2. Abra o arquivo `fetch_repos_robusto.py` e substitua a linha:
-
-   ```python
-   GITHUB_TOKEN = "SEU_TOKEN_AQUI"
-   ```
-
-   pelo seu token pessoal.
-
-⚠️ **Importante:** nunca commite seu token no GitHub.
+* **GitHub Personal Access Token** com permissão de leitura de repositórios públicos.
 
 ---
 
-## 🏃‍♂️ Execução
+## Configuração
 
-Durante a execução, o script exibirá logs como:
+1. Crie um arquivo `.env` na raiz do projeto:
 
-```text
-Iniciando a coleta de dados de 100 repositórios (versão robusta)...
-Buscando 30 repositórios... (já coletados: 0)
-Buscando 30 repositórios... (já coletados: 30)
-Buscando 30 repositórios... (já coletados: 60)
-Buscando 10 repositórios... (já coletados: 90)
-
-Coleta finalizada! 100 repositórios foram salvos em 'repositories_data_completo.json'.
 ```
+GITHUB_TOKEN=seu_token_aqui
+```
+
+2. Certifique-se de que a pasta `data/` existe. O script também pode criá-la automaticamente.
+
+3. Configure o número de repositórios por lote no `main.py` (padrão: 10 por vez).
 
 ---
 
-## 📂 Saída
+## Como Executar
 
-<img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/ee9df3ad-4650-418e-b355-bf4ac965e68a" />
+No terminal, execute:
 
-Os dados serão salvos em:
-
-```
-repositories_data_completo.json
+```bash
+python main.py
 ```
 
-Formato JSON com todos os repositórios coletados, por exemplo:
+O script buscará repositórios e salvará os dados em:
 
-```json
-{
-  "nameWithOwner": "freeCodeCamp/freeCodeCamp",
-  "url": "https://github.com/freeCodeCamp/freeCodeCamp",
-  "createdAt": "2014-12-24T17:49:19Z",
-  "pushedAt": "2025-08-17T15:50:38Z",
-  "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
-  "stargazerCount": 425921,
-  "forkCount": 41219,
-  "watchers": {
-    "totalCount": 8587
-  },
-  "issues": {
-    "totalCount": 198
-  },
-  "issuesClosed": {
-    "totalCount": 19621
-  },
-  "pullRequests": {
-    "totalCount": 112
-  },
-  "pullRequestsMerged": {
-    "totalCount": 25699
-  },
-  "pullRequestsClosed": {
-    "totalCount": 15338
-  },
-  "releases": {
-    "totalCount": 0
-  },
-  "primaryLanguage": {
-    "name": "TypeScript"
-  },
-  "diskUsage": 510767,
-  "licenseInfo": {
-    "name": "BSD 3-Clause \"New\" or \"Revised\" License",
-    "spdxId": "BSD-3-Clause"
-  },
-  "topics": {
-    "nodes": [
-      {"topic": {"name": "learn-to-code"}},
-      {"topic": {"name": "nonprofits"}},
-      {"topic": {"name": "programming"}},
-      {"topic": {"name": "nodejs"}},
-      {"topic": {"name": "react"}},
-      {"topic": {"name": "d3"}},
-      {"topic": {"name": "careers"}},
-      {"topic": {"name": "education"}},
-      {"topic": {"name": "teachers"}},
-      {"topic": {"name": "javascript"}}
-    ]
-  }
-}
-```
+* `data/repositories.csv`
+* `data/repositories.json`
+## Requisitos
+
+- **Python 3.10+**
+- Bibliotecas Python:
+```bash
+pip install requests python-dotenv
+````
+
+* **GitHub Personal Access Token** com permissão de leitura de repositórios públicos.
 
 ---
 
-## 📌 Observações
+## Configuração
 
-* A API GraphQL do GitHub possui limites de **rate limit**. O script adiciona **pausas automáticas** para evitar bloqueios.
-* Caso precise coletar **mais de 100 repositórios**, ajuste o parâmetro `total_repos_to_fetch`.
-* Esse script é parte da **Sprint 1** da tarefa, com foco na coleta inicial de dados.
+1. Crie um arquivo `.env` na raiz do projeto:
+
+```
+GITHUB_TOKEN=seu_token_aqui
+```
+
+2. Certifique-se de que a pasta `data/` existe. O script também pode criá-la automaticamente.
+
+3. Configure o número de repositórios por lote no `main.py` (padrão: 10 por vez).
+
+---
+
+## Como Executar
+
+No terminal, execute:
+
+```bash
+python main.py
+```
+
+O script buscará repositórios e salvará os dados em:
+
+* `data/repositories.csv`
+* `data/repositories.json`
+
+---
+
+## CSV compatível com Excel
+
+* Usa **ponto e vírgula `;` como separador**, garantindo que campos com vírgulas não quebrem colunas.
+* Todos os campos de texto estão entre aspas.
+* Codificação **UTF-8 com BOM (`utf-8-sig`)**, garantindo compatibilidade com acentos no Excel.
+
+### Exemplo de CSV
+
+![alt text](image.png)
+
+---
+
+## JSON
+
+* Formato estruturado, fácil de usar em scripts, dashboards e APIs.
+* Mantém toda a hierarquia de dados do GitHub GraphQL.
+## CSV compatível com Excel
+
+* Usa **ponto e vírgula `;` como separador**, garantindo que campos com vírgulas não quebrem colunas.
+* Todos os campos de texto estão entre aspas.
+* Codificação **UTF-8 com BOM (`utf-8-sig`)**, garantindo compatibilidade com acentos no Excel.
+
+### Exemplo de CSV
+
+![alt text](image.png)
+
+---
+
+## JSON
+
+* Formato estruturado, fácil de usar em scripts, dashboards e APIs.
+* Mantém toda a hierarquia de dados do GitHub GraphQL.
+
+---
+
+## Boas Práticas
+## Boas Práticas
+
+* Sempre utilize seu **token de forma segura**, nunca publique em repositórios públicos.
+* Para grandes volumes, aumente ou diminua o lote de repositórios por busca conforme a capacidade da API.
+* Se algum campo estiver ausente, o script preenche automaticamente como vazio, evitando falhas.
+
+---
+
+
+* Sempre utilize seu **token de forma segura**, nunca publique em repositórios públicos.
+* Para grandes volumes, aumente ou diminua o lote de repositórios por busca conforme a capacidade da API.
+* Se algum campo estiver ausente, o script preenche automaticamente como vazio, evitando falhas.
+
+---
+
+
