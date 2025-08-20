@@ -3,20 +3,21 @@
 
 ## Descrição
 
-O **GitHub Repo Fetch** é uma ferramenta em Python que coleta informações detalhadas de repositórios públicos do GitHub usando a API GraphQL. Os dados são salvos em **CSV** e **JSON**, permitindo análises, relatórios e integração com outras ferramentas.
+O **GitHub Repo Fetch** é uma ferramenta em Python que coleta informações detalhadas de repositórios públicos do GitHub usando a API GraphQL.  
+Os dados são salvos em **CSV** e **JSON**, e também são processados em um **relatório automático** que responde às **Questões de Pesquisa (RQs)** definidas no laboratório:
 
-O projeto é útil para:
-
-- Análise de métricas de repositórios
-- Monitoramento de projetos open-source
-- Criação de dashboards e relatórios automáticos
-- Estudos de popularidade de linguagens, tópicos e licenças
+- **RQ01:** Idade do repositório  
+- **RQ02:** Total de pull requests aceitas  
+- **RQ03:** Total de releases  
+- **RQ04:** Tempo desde a última atualização  
+- **RQ05:** Linguagem primária de cada repositório  
+- **RQ06:** Percentual de issues fechadas  
 
 ---
 
 ## Funcionalidades
 
-- Busca repositórios públicos em lotes configuráveis
+- Busca repositórios públicos em lotes configuráveis (até 1000 repositórios)  
 - Coleta dados detalhados:
   - Nome do repositório e URL
   - Datas de criação e último push
@@ -32,6 +33,7 @@ O projeto é útil para:
 - Gera arquivos:
   - `CSV` (excel-friendly)
   - `JSON` (para manipulação programática)
+- Gera **relatório final com estatísticas (RQs 01–06)**  
 - Tratamento automático de campos ausentes (evita erros `NoneType`)
 
 ---
@@ -40,9 +42,11 @@ O projeto é útil para:
 
 ```
 github-repo-fetch/
-├── data/                  # Arquivos gerados (CSV e JSON)
+├── data/                  # Arquivos gerados (CSV, JSON, relatórios)
 ├── src/
-│   └── save_data.py       # Funções para salvar CSV e JSON
+│   ├── save_data.py       # Funções para salvar CSV e JSON
+│   ├── github_api.py      # Consulta à API GraphQL
+│   └── report.py          # Geração de relatórios e análise das RQs
 ├── main.py                # Script principal de execução
 └── README.md
 ```
@@ -54,7 +58,7 @@ github-repo-fetch/
 - **Python 3.10+**
 - Bibliotecas Python:
   ```bash
-  pip install requests python-dotenv
+  pip install requests python-dotenv pandas
   ```
 - **GitHub Personal Access Token** com permissão de leitura de repositórios públicos
 
@@ -67,9 +71,9 @@ github-repo-fetch/
    GITHUB_TOKEN=seu_token_aqui
    ```
 
-2. Certifique-se de que a pasta `data/` existe. O script também pode criá-la automaticamente.
+2. Certifique-se de que a pasta `data/` existe (ou será criada automaticamente).  
 
-3. Configure o número de repositórios por lote no `main.py` (padrão: 10 por vez).
+3. Configure o número de repositórios por lote no `main.py`.  
 
 ---
 
@@ -85,31 +89,32 @@ O script buscará repositórios e salvará os dados em:
 
 - `data/repositories.csv`
 - `data/repositories.json`
+- `data/repos_full.csv` (com métricas das RQs)
+
+01 a 06**.
 
 ---
 
-## CSV compatível com Excel
+## Relatórios
 
-- Usa **ponto e vírgula `;` como separador**, garantindo que campos com vírgulas não quebrem colunas
-- Todos os campos de texto estão entre aspas
-- Codificação **UTF-8 com BOM (`utf-8-sig`)**, garantindo compatibilidade com acentos no Excel
+- **CSV compatível com Excel**  
+  - Usa **ponto e vírgula `;` como separador**  
+  - Codificação **UTF-8 com BOM (`utf-8-sig`)**  
+  - Ideal para análises rápidas em planilhas  
 
-### Exemplo de CSV
+- **JSON estruturado**  
+  - Mantém a hierarquia dos dados  
+  - Útil para uso em scripts, dashboards e integrações  
 
-![alt text](image.png)
-
----
-
-## JSON
-
-- Formato estruturado, fácil de usar em scripts, dashboards e APIs
-- Mantém toda a hierarquia de dados do GitHub GraphQL
+- **Relatório Automático (RQs)**  
+  - Gera estatísticas em formato tabular  
+  - Inclui medianas e distribuições  
+  - Ajuda a responder diretamente às perguntas do laboratório  
 
 ---
 
 ## Boas Práticas
 
-- Sempre utilize seu **token de forma segura**, nunca publique em repositórios públicos
-- Para grandes volumes, aumente ou diminua o lote de repositórios por busca conforme a capacidade da API
-- Se algum campo estiver ausente, o script preenche automaticamente como vazio, evitando falhas
-
+- Sempre utilize seu **token de forma segura**, nunca publique em repositórios públicos  
+- Para grandes volumes, ajuste o número de repositórios buscados conforme os limites da API  
+- Use os relatórios para comparar métricas entre linguagens e projetos  
