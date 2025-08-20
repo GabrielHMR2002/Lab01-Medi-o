@@ -1,12 +1,27 @@
 
-RELATÓRIO INICIAL DOS REPOSITÓRIOS
+RELATÓRIO DOS REPOSITÓRIOS
 
-Total de repositórios coletados: 20
-Soma total de stars: 5557878
-Top linguagens por quantidade de repositórios:
-{'JavaScript': 2, 'C++': 1, 'HTML': 1, 'Markdown': 1, 'TypeScript': 3, 'C': 1, 'Python': 5}
+RQ01: Sistemas populares são maduros/antigos?
+- Idade mediana (dias): 3506.5
+
+RQ02: Sistemas populares recebem muita contribuição externa?
+- Pull requests aceitas medianas: 873.0
+
+RQ03: Sistemas populares lançam releases com frequência?
+- Releases medianos: 0.0
+
+RQ04: Sistemas populares são atualizados com frequência?
+- Dias desde última atualização (mediana): 33.5
+
+RQ05: Sistemas populares são escritos nas linguagens mais populares?
+- Contagem por linguagem: Counter({'Python': 5, 'TypeScript': 3, 'JavaScript': 2, 'Markdown': 1, 'C': 1, 'C++': 1, 'HTML': 1})
+
+RQ06: Sistemas populares possuem um alto percentual de issues fechadas?
+- Percentual mediano de issues fechadas: 0.93
 
 Hipóteses informais:
-1. Repositórios com mais stars tendem a ter mais watchers.
-2. Linguagens mais populares possuem mais forks em média.
-3. Repositórios antigos tendem a ter mais pull requests fechadas.
+1. Repositórios com mais stars tendem a ser mais antigos.
+2. Repositórios com mais PRs aceitas são mais populares.
+3. Linguagens populares possuem mais repositórios e forks.
+4. Repositórios com atualizações recentes estão ativos e mantidos.
+5. A maioria das issues é fechada.

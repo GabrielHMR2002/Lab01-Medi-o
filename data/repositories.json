@@ -5,19 +5,19 @@
         "createdAt": "2014-12-24T17:49:19Z",
         "pushedAt": "2025-08-20T16:03:21Z",
         "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
-        "stargazerCount": 426108,
+        "stargazerCount": 426110,
         "forkCount": 41240,
         "watchers": {
             "totalCount": 8586
         },
         "issues": {
-            "totalCount": 192
+            "totalCount": 193
         },
         "issuesClosed": {
             "totalCount": 19634
         },
         "pullRequests": {
-            "totalCount": 106
+            "totalCount": 107
         },
         "pullRequestsMerged": {
             "totalCount": 25720
@@ -97,10 +97,10 @@
         "createdAt": "2018-05-09T12:03:18Z",
         "pushedAt": "2025-07-29T21:02:41Z",
         "description": "Master programming by recreating your favorite technologies from scratch.",
-        "stargazerCount": 412275,
-        "forkCount": 38669,
+        "stargazerCount": 412302,
+        "forkCount": 38670,
         "watchers": {
-            "totalCount": 6208
+            "totalCount": 6206
         },
         "issues": {
             "totalCount": 227
@@ -166,8 +166,8 @@
         "createdAt": "2014-07-11T13:42:37Z",
         "pushedAt": "2025-07-18T18:37:33Z",
         "description": "😎 Awesome lists about all kinds of interesting topics",
-        "stargazerCount": 393493,
-        "forkCount": 31275,
+        "stargazerCount": 393518,
+        "forkCount": 31276,
         "watchers": {
             "totalCount": 8002
         },
@@ -231,8 +231,8 @@
         "createdAt": "2013-10-11T06:50:37Z",
         "pushedAt": "2025-08-17T15:03:15Z",
         "description": ":books: Freely available programming books",
-        "stargazerCount": 365455,
-        "forkCount": 63923,
+        "stargazerCount": 365460,
+        "forkCount": 63922,
         "watchers": {
             "totalCount": 9874
         },
@@ -298,8 +298,8 @@
         "createdAt": "2016-03-20T23:49:42Z",
         "pushedAt": "2025-05-20T15:56:34Z",
         "description": "A collective list of free APIs",
-        "stargazerCount": 362009,
-        "forkCount": 37995,
+        "stargazerCount": 362018,
+        "forkCount": 37997,
         "watchers": {
             "totalCount": 4352
         },
@@ -310,7 +310,7 @@
             "totalCount": 704
         },
         "pullRequests": {
-            "totalCount": 542
+            "totalCount": 543
         },
         "pullRequestsMerged": {
             "totalCount": 1872
@@ -390,7 +390,7 @@
         "createdAt": "2017-03-15T13:45:52Z",
         "pushedAt": "2025-08-20T16:54:08Z",
         "description": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
-        "stargazerCount": 334185,
+        "stargazerCount": 334189,
         "forkCount": 42595,
         "watchers": {
             "totalCount": 6857
@@ -482,8 +482,8 @@
         "createdAt": "2016-06-06T02:34:12Z",
         "pushedAt": "2024-12-05T23:47:30Z",
         "description": "A complete computer science study plan to become a software engineer.",
-        "stargazerCount": 324561,
-        "forkCount": 79892,
+        "stargazerCount": 324563,
+        "forkCount": 79893,
         "watchers": {
             "totalCount": 8490
         },
@@ -572,10 +572,10 @@
         "createdAt": "2017-02-26T16:15:28Z",
         "pushedAt": "2025-05-21T11:13:33Z",
         "description": "Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.",
-        "stargazerCount": 316652,
-        "forkCount": 51869,
+        "stargazerCount": 316658,
+        "forkCount": 51870,
         "watchers": {
-            "totalCount": 6792
+            "totalCount": 6791
         },
         "issues": {
             "totalCount": 248
@@ -664,7 +664,7 @@
         "createdAt": "2019-03-26T07:31:14Z",
         "pushedAt": "2024-10-03T12:29:12Z",
         "description": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.",
-        "stargazerCount": 274101,
+        "stargazerCount": 274100,
         "forkCount": 21070,
         "watchers": {
             "totalCount": 4216
@@ -703,10 +703,10 @@
         "createdAt": "2014-06-27T21:00:06Z",
         "pushedAt": "2025-07-17T16:35:51Z",
         "description": "An opinionated list of awesome Python frameworks, libraries, software and resources.",
-        "stargazerCount": 255904,
+        "stargazerCount": 255922,
         "forkCount": 26156,
         "watchers": {
-            "totalCount": 6118
+            "totalCount": 6119
         },
         "issues": {
             "totalCount": 0
@@ -775,7 +775,7 @@
         "createdAt": "2015-06-01T02:33:17Z",
         "pushedAt": "2025-08-17T13:42:00Z",
         "description": "A list of Free Software network services and web applications which can be hosted on your own servers",
-        "stargazerCount": 242826,
+        "stargazerCount": 242846,
         "forkCount": 11250,
         "watchers": {
             "totalCount": 2930
@@ -855,8 +855,8 @@
         "createdAt": "2017-04-12T05:07:46Z",
         "pushedAt": "2024-08-15T05:33:54Z",
         "description": "Curated list of project-based tutorials",
-        "stargazerCount": 240261,
-        "forkCount": 31436,
+        "stargazerCount": 240273,
+        "forkCount": 31437,
         "watchers": {
             "totalCount": 3390
         },
@@ -933,18 +933,18 @@
         "nameWithOwner": "facebook/react",
         "url": "https://github.com/facebook/react",
         "createdAt": "2013-05-24T16:15:54Z",
-        "pushedAt": "2025-08-20T15:31:42Z",
+        "pushedAt": "2025-08-20T19:33:57Z",
         "description": "The library for web and native user interfaces.",
-        "stargazerCount": 238256,
+        "stargazerCount": 238257,
         "forkCount": 49169,
         "watchers": {
             "totalCount": 6716
         },
         "issues": {
-            "totalCount": 798
+            "totalCount": 797
         },
         "issuesClosed": {
-            "totalCount": 13192
+            "totalCount": 13193
         },
         "pullRequests": {
             "totalCount": 220
@@ -1069,8 +1069,8 @@
         "createdAt": "2016-07-16T09:44:01Z",
         "pushedAt": "2025-08-19T14:16:04Z",
         "description": "All Algorithms implemented in Python",
-        "stargazerCount": 204217,
-        "forkCount": 47334,
+        "stargazerCount": 204219,
+        "forkCount": 47335,
         "watchers": {
             "totalCount": 5968
         },
@@ -1161,7 +1161,7 @@
         "createdAt": "2011-09-04T22:48:12Z",
         "pushedAt": "2025-08-19T17:32:18Z",
         "description": "Linux kernel source tree",
-        "stargazerCount": 200296,
+        "stargazerCount": 200303,
         "forkCount": 57390,
         "watchers": {
             "totalCount": 7777
@@ -1202,7 +1202,7 @@
         "createdAt": "2018-03-24T07:47:04Z",
         "pushedAt": "2025-02-12T16:19:59Z",
         "description": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-        "stargazerCount": 193042,
+        "stargazerCount": 193043,
         "forkCount": 30848,
         "watchers": {
             "totalCount": 4280
@@ -1282,24 +1282,24 @@
         "nameWithOwner": "tensorflow/tensorflow",
         "url": "https://github.com/tensorflow/tensorflow",
         "createdAt": "2015-11-07T01:19:20Z",
-        "pushedAt": "2025-08-20T17:52:52Z",
+        "pushedAt": "2025-08-20T19:54:21Z",
         "description": "An Open Source Machine Learning Framework for Everyone",
-        "stargazerCount": 191254,
+        "stargazerCount": 191253,
         "forkCount": 74786,
         "watchers": {
             "totalCount": 7456
         },
         "issues": {
-            "totalCount": 898
+            "totalCount": 897
         },
         "issuesClosed": {
-            "totalCount": 39837
+            "totalCount": 39838
         },
         "pullRequests": {
-            "totalCount": 616
+            "totalCount": 617
         },
         "pullRequestsMerged": {
-            "totalCount": 35931
+            "totalCount": 35935
         },
         "pullRequestsClosed": {
             "totalCount": 19855
@@ -1310,7 +1310,7 @@
         "primaryLanguage": {
             "name": "C++"
         },
-        "diskUsage": 1190745,
+        "diskUsage": 1190503,
         "licenseInfo": {
             "name": "Apache License 2.0",
             "spdxId": "Apache-2.0"
@@ -1366,7 +1366,7 @@
         "createdAt": "2014-05-04T00:18:39Z",
         "pushedAt": "2025-07-17T02:38:25Z",
         "description": "🎓 Path to a free self-taught education in Computer Science!",
-        "stargazerCount": 190677,
+        "stargazerCount": 190683,
         "forkCount": 23798,
         "watchers": {
             "totalCount": 5908
@@ -1428,7 +1428,7 @@
         "createdAt": "2018-06-23T10:43:14Z",
         "pushedAt": "2024-11-19T14:00:38Z",
         "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
-        "stargazerCount": 183024,
+        "stargazerCount": 183040,
         "forkCount": 11387,
         "watchers": {
             "totalCount": 2654

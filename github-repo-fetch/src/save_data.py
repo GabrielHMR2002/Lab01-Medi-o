@@ -5,9 +5,7 @@ import os
 def save_csv(repos, filename):
     if not repos:
         return
-
     os.makedirs(os.path.dirname(filename), exist_ok=True)
-
     fieldnames = [
         "nameWithOwner", "url", "createdAt", "pushedAt", "description",
         "stargazerCount", "forkCount", "watchersCount",
@@ -16,12 +14,9 @@ def save_csv(repos, filename):
         "releasesCount", "primaryLanguage", "diskUsage",
         "licenseName", "licenseSpdx", "topics"
     ]
-
     with open(filename, "w", newline="", encoding="utf-8-sig") as f:
-        # excel-friendly: ponto e vírgula como separador e aspas em campos de texto
         writer = csv.DictWriter(f, fieldnames=fieldnames, delimiter=';', quotechar='"', quoting=csv.QUOTE_ALL)
         writer.writeheader()
-
         for r in repos:
             writer.writerow({
                 "nameWithOwner": r.get("nameWithOwner", ""),

@@ -1,8 +1,4 @@
 # GitHub Repo Fetch
-
-[![Python](https://img.shields.io/badge/Python-3.10+-blue)](https://www.python.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green)](https://opensource.org/licenses/MIT)
-
 ---
 
 ## Descrição
@@ -116,3 +112,4 @@ O script buscará repositórios e salvará os dados em:
 - Sempre utilize seu **token de forma segura**, nunca publique em repositórios públicos
 - Para grandes volumes, aumente ou diminua o lote de repositórios por busca conforme a capacidade da API
 - Se algum campo estiver ausente, o script preenche automaticamente como vazio, evitando falhas
+

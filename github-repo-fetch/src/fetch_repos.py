@@ -49,4 +49,5 @@ def fetch_repositories(total_repos=1000, per_page=50):
         if not page_info.get("hasNextPage"):
             break
         after_cursor = page_info.get("endCursor")
+    print(f"Total de repositórios coletados: {len(all_repos)}")
     return all_repos[:total_repos]
