@@ -3,27 +3,27 @@
         "nameWithOwner": "freeCodeCamp/freeCodeCamp",
         "url": "https://github.com/freeCodeCamp/freeCodeCamp",
         "createdAt": "2014-12-24T17:49:19Z",
-        "pushedAt": "2025-08-20T16:03:21Z",
+        "pushedAt": "2025-08-22T08:44:02Z",
         "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
-        "stargazerCount": 426110,
-        "forkCount": 41240,
+        "stargazerCount": 426209,
+        "forkCount": 41264,
         "watchers": {
-            "totalCount": 8586
+            "totalCount": 8590
         },
         "issues": {
-            "totalCount": 193
+            "totalCount": 194
         },
         "issuesClosed": {
-            "totalCount": 19634
+            "totalCount": 19637
         },
         "pullRequests": {
-            "totalCount": 107
+            "totalCount": 112
         },
         "pullRequestsMerged": {
-            "totalCount": 25720
+            "totalCount": 25730
         },
         "pullRequestsClosed": {
-            "totalCount": 15358
+            "totalCount": 15363
         },
         "releases": {
             "totalCount": 0
@@ -31,7 +31,7 @@
         "primaryLanguage": {
             "name": "TypeScript"
         },
-        "diskUsage": 511198,
+        "diskUsage": 511212,
         "licenseInfo": {
             "name": "BSD 3-Clause \"New\" or \"Revised\" License",
             "spdxId": "BSD-3-Clause"
@@ -97,25 +97,25 @@
         "createdAt": "2018-05-09T12:03:18Z",
         "pushedAt": "2025-07-29T21:02:41Z",
         "description": "Master programming by recreating your favorite technologies from scratch.",
-        "stargazerCount": 412302,
-        "forkCount": 38670,
+        "stargazerCount": 413047,
+        "forkCount": 38738,
         "watchers": {
-            "totalCount": 6206
+            "totalCount": 6218
         },
         "issues": {
-            "totalCount": 227
+            "totalCount": 229
         },
         "issuesClosed": {
             "totalCount": 595
         },
         "pullRequests": {
-            "totalCount": 189
+            "totalCount": 188
         },
         "pullRequestsMerged": {
             "totalCount": 142
         },
         "pullRequestsClosed": {
-            "totalCount": 149
+            "totalCount": 150
         },
         "releases": {
             "totalCount": 0
@@ -166,10 +166,10 @@
         "createdAt": "2014-07-11T13:42:37Z",
         "pushedAt": "2025-07-18T18:37:33Z",
         "description": "😎 Awesome lists about all kinds of interesting topics",
-        "stargazerCount": 393518,
-        "forkCount": 31276,
+        "stargazerCount": 394082,
+        "forkCount": 31305,
         "watchers": {
-            "totalCount": 8002
+            "totalCount": 8005
         },
         "issues": {
             "totalCount": 13
@@ -178,13 +178,13 @@
             "totalCount": 340
         },
         "pullRequests": {
-            "totalCount": 39
+            "totalCount": 40
         },
         "pullRequestsMerged": {
             "totalCount": 679
         },
         "pullRequestsClosed": {
-            "totalCount": 1463
+            "totalCount": 1465
         },
         "releases": {
             "totalCount": 0
@@ -231,8 +231,8 @@
         "createdAt": "2013-10-11T06:50:37Z",
         "pushedAt": "2025-08-17T15:03:15Z",
         "description": ":books: Freely available programming books",
-        "stargazerCount": 365460,
-        "forkCount": 63922,
+        "stargazerCount": 365760,
+        "forkCount": 63936,
         "watchers": {
             "totalCount": 9874
         },
@@ -243,7 +243,7 @@
             "totalCount": 1150
         },
         "pullRequests": {
-            "totalCount": 9
+            "totalCount": 11
         },
         "pullRequestsMerged": {
             "totalCount": 6820
@@ -298,10 +298,10 @@
         "createdAt": "2016-03-20T23:49:42Z",
         "pushedAt": "2025-05-20T15:56:34Z",
         "description": "A collective list of free APIs",
-        "stargazerCount": 362018,
-        "forkCount": 37997,
+        "stargazerCount": 362432,
+        "forkCount": 38027,
         "watchers": {
-            "totalCount": 4352
+            "totalCount": 4354
         },
         "issues": {
             "totalCount": 8
@@ -310,7 +310,7 @@
             "totalCount": 704
         },
         "pullRequests": {
-            "totalCount": 543
+            "totalCount": 547
         },
         "pullRequestsMerged": {
             "totalCount": 1872
@@ -388,10 +388,10 @@
         "nameWithOwner": "kamranahmedse/developer-roadmap",
         "url": "https://github.com/kamranahmedse/developer-roadmap",
         "createdAt": "2017-03-15T13:45:52Z",
-        "pushedAt": "2025-08-20T16:54:08Z",
+        "pushedAt": "2025-08-22T16:11:41Z",
         "description": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
-        "stargazerCount": 334189,
-        "forkCount": 42595,
+        "stargazerCount": 334331,
+        "forkCount": 42617,
         "watchers": {
             "totalCount": 6857
         },
@@ -402,10 +402,10 @@
             "totalCount": 2693
         },
         "pullRequests": {
-            "totalCount": 24
+            "totalCount": 31
         },
         "pullRequestsMerged": {
-            "totalCount": 3690
+            "totalCount": 3694
         },
         "pullRequestsClosed": {
             "totalCount": 1659
@@ -416,7 +416,7 @@
         "primaryLanguage": {
             "name": "TypeScript"
         },
-        "diskUsage": 307718,
+        "diskUsage": 309093,
         "licenseInfo": {
             "name": "Other",
             "spdxId": "NOASSERTION"
@@ -482,10 +482,10 @@
         "createdAt": "2016-06-06T02:34:12Z",
         "pushedAt": "2024-12-05T23:47:30Z",
         "description": "A complete computer science study plan to become a software engineer.",
-        "stargazerCount": 324563,
-        "forkCount": 79893,
+        "stargazerCount": 324678,
+        "forkCount": 79908,
         "watchers": {
-            "totalCount": 8490
+            "totalCount": 8491
         },
         "issues": {
             "totalCount": 63
@@ -572,10 +572,10 @@
         "createdAt": "2017-02-26T16:15:28Z",
         "pushedAt": "2025-05-21T11:13:33Z",
         "description": "Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.",
-        "stargazerCount": 316658,
-        "forkCount": 51870,
+        "stargazerCount": 317084,
+        "forkCount": 51909,
         "watchers": {
-            "totalCount": 6791
+            "totalCount": 6789
         },
         "issues": {
             "totalCount": 248
@@ -662,12 +662,12 @@
         "nameWithOwner": "996icu/996.ICU",
         "url": "https://github.com/996icu/996.ICU",
         "createdAt": "2019-03-26T07:31:14Z",
-        "pushedAt": "2024-10-03T12:29:12Z",
+        "pushedAt": "2025-08-22T06:01:29Z",
         "description": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.",
-        "stargazerCount": 274100,
-        "forkCount": 21070,
+        "stargazerCount": 274131,
+        "forkCount": 21069,
         "watchers": {
-            "totalCount": 4216
+            "totalCount": 4213
         },
         "issues": {
             "totalCount": 0
@@ -676,19 +676,19 @@
             "totalCount": 0
         },
         "pullRequests": {
-            "totalCount": 9
+            "totalCount": 3
         },
         "pullRequestsMerged": {
-            "totalCount": 1067
+            "totalCount": 1071
         },
         "pullRequestsClosed": {
-            "totalCount": 915
+            "totalCount": 917
         },
         "releases": {
             "totalCount": 0
         },
         "primaryLanguage": null,
-        "diskUsage": 187831,
+        "diskUsage": 189351,
         "licenseInfo": {
             "name": "Other",
             "spdxId": "NOASSERTION"
@@ -703,8 +703,8 @@
         "createdAt": "2014-06-27T21:00:06Z",
         "pushedAt": "2025-07-17T16:35:51Z",
         "description": "An opinionated list of awesome Python frameworks, libraries, software and resources.",
-        "stargazerCount": 255922,
-        "forkCount": 26156,
+        "stargazerCount": 256237,
+        "forkCount": 26174,
         "watchers": {
             "totalCount": 6119
         },
@@ -715,7 +715,7 @@
             "totalCount": 0
         },
         "pullRequests": {
-            "totalCount": 470
+            "totalCount": 472
         },
         "pullRequestsMerged": {
             "totalCount": 544
@@ -773,12 +773,12 @@
         "nameWithOwner": "awesome-selfhosted/awesome-selfhosted",
         "url": "https://github.com/awesome-selfhosted/awesome-selfhosted",
         "createdAt": "2015-06-01T02:33:17Z",
-        "pushedAt": "2025-08-17T13:42:00Z",
+        "pushedAt": "2025-08-22T08:51:14Z",
         "description": "A list of Free Software network services and web applications which can be hosted on your own servers",
-        "stargazerCount": 242846,
-        "forkCount": 11250,
+        "stargazerCount": 243184,
+        "forkCount": 11264,
         "watchers": {
-            "totalCount": 2930
+            "totalCount": 2933
         },
         "issues": {
             "totalCount": 0
@@ -799,7 +799,7 @@
             "totalCount": 1
         },
         "primaryLanguage": null,
-        "diskUsage": 16583,
+        "diskUsage": 16591,
         "licenseInfo": {
             "name": "Other",
             "spdxId": "NOASSERTION"
@@ -855,25 +855,25 @@
         "createdAt": "2017-04-12T05:07:46Z",
         "pushedAt": "2024-08-15T05:33:54Z",
         "description": "Curated list of project-based tutorials",
-        "stargazerCount": 240273,
-        "forkCount": 31437,
+        "stargazerCount": 240656,
+        "forkCount": 31475,
         "watchers": {
-            "totalCount": 3390
+            "totalCount": 3391
         },
         "issues": {
-            "totalCount": 130
+            "totalCount": 131
         },
         "issuesClosed": {
             "totalCount": 79
         },
         "pullRequests": {
-            "totalCount": 108
+            "totalCount": 107
         },
         "pullRequestsMerged": {
             "totalCount": 182
         },
         "pullRequestsClosed": {
-            "totalCount": 180
+            "totalCount": 181
         },
         "releases": {
             "totalCount": 0
@@ -933,27 +933,27 @@
         "nameWithOwner": "facebook/react",
         "url": "https://github.com/facebook/react",
         "createdAt": "2013-05-24T16:15:54Z",
-        "pushedAt": "2025-08-20T19:33:57Z",
+        "pushedAt": "2025-08-22T21:46:37Z",
         "description": "The library for web and native user interfaces.",
-        "stargazerCount": 238257,
-        "forkCount": 49169,
+        "stargazerCount": 238319,
+        "forkCount": 49179,
         "watchers": {
-            "totalCount": 6716
+            "totalCount": 6714
         },
         "issues": {
-            "totalCount": 797
+            "totalCount": 800
         },
         "issuesClosed": {
-            "totalCount": 13193
+            "totalCount": 13196
         },
         "pullRequests": {
-            "totalCount": 220
+            "totalCount": 224
         },
         "pullRequestsMerged": {
-            "totalCount": 12114
+            "totalCount": 12137
         },
         "pullRequestsClosed": {
-            "totalCount": 5604
+            "totalCount": 5607
         },
         "releases": {
             "totalCount": 105
@@ -961,7 +961,7 @@
         "primaryLanguage": {
             "name": "JavaScript"
         },
-        "diskUsage": 1096872,
+        "diskUsage": 1104570,
         "licenseInfo": {
             "name": "MIT License",
             "spdxId": "MIT"
@@ -1007,8 +1007,8 @@
         "createdAt": "2013-07-29T03:24:51Z",
         "pushedAt": "2024-10-10T07:24:15Z",
         "description": "This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core",
-        "stargazerCount": 209282,
-        "forkCount": 33739,
+        "stargazerCount": 209292,
+        "forkCount": 33741,
         "watchers": {
             "totalCount": 5812
         },
@@ -1067,10 +1067,10 @@
         "nameWithOwner": "TheAlgorithms/Python",
         "url": "https://github.com/TheAlgorithms/Python",
         "createdAt": "2016-07-16T09:44:01Z",
-        "pushedAt": "2025-08-19T14:16:04Z",
+        "pushedAt": "2025-08-22T21:16:56Z",
         "description": "All Algorithms implemented in Python",
-        "stargazerCount": 204219,
-        "forkCount": 47335,
+        "stargazerCount": 204274,
+        "forkCount": 47351,
         "watchers": {
             "totalCount": 5968
         },
@@ -1081,13 +1081,13 @@
             "totalCount": 1511
         },
         "pullRequests": {
-            "totalCount": 360
+            "totalCount": 369
         },
         "pullRequestsMerged": {
             "totalCount": 2976
         },
         "pullRequestsClosed": {
-            "totalCount": 7361
+            "totalCount": 7367
         },
         "releases": {
             "totalCount": 0
@@ -1095,7 +1095,7 @@
         "primaryLanguage": {
             "name": "Python"
         },
-        "diskUsage": 15436,
+        "diskUsage": 15440,
         "licenseInfo": {
             "name": "MIT License",
             "spdxId": "MIT"
@@ -1159,12 +1159,12 @@
         "nameWithOwner": "torvalds/linux",
         "url": "https://github.com/torvalds/linux",
         "createdAt": "2011-09-04T22:48:12Z",
-        "pushedAt": "2025-08-19T17:32:18Z",
+        "pushedAt": "2025-08-22T22:20:33Z",
         "description": "Linux kernel source tree",
-        "stargazerCount": 200303,
-        "forkCount": 57390,
+        "stargazerCount": 200470,
+        "forkCount": 57406,
         "watchers": {
-            "totalCount": 7777
+            "totalCount": 7779
         },
         "issues": {
             "totalCount": 0
@@ -1179,7 +1179,7 @@
             "totalCount": 10
         },
         "pullRequestsClosed": {
-            "totalCount": 715
+            "totalCount": 716
         },
         "releases": {
             "totalCount": 0
@@ -1187,7 +1187,7 @@
         "primaryLanguage": {
             "name": "C"
         },
-        "diskUsage": 5656316,
+        "diskUsage": 5657344,
         "licenseInfo": {
             "name": "Other",
             "spdxId": "NOASSERTION"
@@ -1202,8 +1202,8 @@
         "createdAt": "2018-03-24T07:47:04Z",
         "pushedAt": "2025-02-12T16:19:59Z",
         "description": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-        "stargazerCount": 193043,
-        "forkCount": 30848,
+        "stargazerCount": 193056,
+        "forkCount": 30849,
         "watchers": {
             "totalCount": 4280
         },
@@ -1282,27 +1282,27 @@
         "nameWithOwner": "tensorflow/tensorflow",
         "url": "https://github.com/tensorflow/tensorflow",
         "createdAt": "2015-11-07T01:19:20Z",
-        "pushedAt": "2025-08-20T19:54:21Z",
+        "pushedAt": "2025-08-22T22:33:08Z",
         "description": "An Open Source Machine Learning Framework for Everyone",
-        "stargazerCount": 191253,
-        "forkCount": 74786,
+        "stargazerCount": 191278,
+        "forkCount": 74785,
         "watchers": {
-            "totalCount": 7456
+            "totalCount": 7455
         },
         "issues": {
-            "totalCount": 897
+            "totalCount": 901
         },
         "issuesClosed": {
-            "totalCount": 39838
+            "totalCount": 39841
         },
         "pullRequests": {
-            "totalCount": 617
+            "totalCount": 586
         },
         "pullRequestsMerged": {
-            "totalCount": 35935
+            "totalCount": 36037
         },
         "pullRequestsClosed": {
-            "totalCount": 19855
+            "totalCount": 19897
         },
         "releases": {
             "totalCount": 219
@@ -1310,7 +1310,7 @@
         "primaryLanguage": {
             "name": "C++"
         },
-        "diskUsage": 1190503,
+        "diskUsage": 1193547,
         "licenseInfo": {
             "name": "Apache License 2.0",
             "spdxId": "Apache-2.0"
@@ -1366,10 +1366,10 @@
         "createdAt": "2014-05-04T00:18:39Z",
         "pushedAt": "2025-07-17T02:38:25Z",
         "description": "🎓 Path to a free self-taught education in Computer Science!",
-        "stargazerCount": 190683,
-        "forkCount": 23798,
+        "stargazerCount": 190815,
+        "forkCount": 23823,
         "watchers": {
-            "totalCount": 5908
+            "totalCount": 5909
         },
         "issues": {
             "totalCount": 14
@@ -1428,10 +1428,10 @@
         "createdAt": "2018-06-23T10:43:14Z",
         "pushedAt": "2024-11-19T14:00:38Z",
         "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
-        "stargazerCount": 183040,
-        "forkCount": 11387,
+        "stargazerCount": 183280,
+        "forkCount": 11399,
         "watchers": {
-            "totalCount": 2654
+            "totalCount": 2657
         },
         "issues": {
             "totalCount": 0
@@ -1440,7 +1440,7 @@
             "totalCount": 0
         },
         "pullRequests": {
-            "totalCount": 95
+            "totalCount": 94
         },
         "pullRequestsMerged": {
             "totalCount": 122
@@ -1507,6 +1507,2356 @@
                 {
                     "topic": {
                         "name": "cheatsheets"
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "nameWithOwner": "getify/You-Dont-Know-JS",
+        "url": "https://github.com/getify/You-Dont-Know-JS",
+        "createdAt": "2013-11-16T02:37:24Z",
+        "pushedAt": "2025-05-20T14:22:36Z",
+        "description": "A book series (2 published editions) on the JS language.",
+        "stargazerCount": 183005,
+        "forkCount": 33658,
+        "watchers": {
+            "totalCount": 5858
+        },
+        "issues": {
+            "totalCount": 81
+        },
+        "issuesClosed": {
+            "totalCount": 863
+        },
+        "pullRequests": {
+            "totalCount": 44
+        },
+        "pullRequestsMerged": {
+            "totalCount": 368
+        },
+        "pullRequestsClosed": {
+            "totalCount": 482
+        },
+        "releases": {
+            "totalCount": 0
+        },
+        "primaryLanguage": null,
+        "diskUsage": 15060,
+        "licenseInfo": {
+            "name": "Other",
+            "spdxId": "NOASSERTION"
+        },
+        "topics": {
+            "nodes": [
+                {
+                    "topic": {
+                        "name": "book-series"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "javascript"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "closures"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "prototypes"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "async"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "es6"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "es2015"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "training-materials"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "book"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "training-providers"
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "nameWithOwner": "CyC2018/CS-Notes",
+        "url": "https://github.com/CyC2018/CS-Notes",
+        "createdAt": "2018-02-13T14:56:24Z",
+        "pushedAt": "2024-08-21T09:40:10Z",
+        "description": ":books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计",
+        "stargazerCount": 181537,
+        "forkCount": 51166,
+        "watchers": {
+            "totalCount": 5260
+        },
+        "issues": {
+            "totalCount": 123
+        },
+        "issuesClosed": {
+            "totalCount": 448
+        },
+        "pullRequests": {
+            "totalCount": 66
+        },
+        "pullRequestsMerged": {
+            "totalCount": 374
+        },
+        "pullRequestsClosed": {
+            "totalCount": 180
+        },
+        "releases": {
+            "totalCount": 0
+        },
+        "primaryLanguage": null,
+        "diskUsage": 116179,
+        "licenseInfo": null,
+        "topics": {
+            "nodes": [
+                {
+                    "topic": {
+                        "name": "algorithm"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "leetcode"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "interview"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "computer-science"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "system-design"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "java"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "python"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "cpp"
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "nameWithOwner": "ohmyzsh/ohmyzsh",
+        "url": "https://github.com/ohmyzsh/ohmyzsh",
+        "createdAt": "2009-08-28T18:15:37Z",
+        "pushedAt": "2025-08-19T10:46:13Z",
+        "description": "🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.",
+        "stargazerCount": 180879,
+        "forkCount": 26181,
+        "watchers": {
+            "totalCount": 2636
+        },
+        "issues": {
+            "totalCount": 140
+        },
+        "issuesClosed": {
+            "totalCount": 4824
+        },
+        "pullRequests": {
+            "totalCount": 365
+        },
+        "pullRequestsMerged": {
+            "totalCount": 3377
+        },
+        "pullRequestsClosed": {
+            "totalCount": 3969
+        },
+        "releases": {
+            "totalCount": 0
+        },
+        "primaryLanguage": {
+            "name": "Shell"
+        },
+        "diskUsage": 12923,
+        "licenseInfo": {
+            "name": "MIT License",
+            "spdxId": "MIT"
+        },
+        "topics": {
+            "nodes": [
+                {
+                    "topic": {
+                        "name": "shell"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "zsh-configuration"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "theme"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "terminal"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "productivity"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "zsh"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "cli"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "cli-app"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "themes"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "plugins"
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "nameWithOwner": "Significant-Gravitas/AutoGPT",
+        "url": "https://github.com/Significant-Gravitas/AutoGPT",
+        "createdAt": "2023-03-16T09:21:07Z",
+        "pushedAt": "2025-08-22T19:37:23Z",
+        "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+        "stargazerCount": 177999,
+        "forkCount": 45944,
+        "watchers": {
+            "totalCount": 1552
+        },
+        "issues": {
+            "totalCount": 162
+        },
+        "issuesClosed": {
+            "totalCount": 3232
+        },
+        "pullRequests": {
+            "totalCount": 64
+        },
+        "pullRequestsMerged": {
+            "totalCount": 3199
+        },
+        "pullRequestsClosed": {
+            "totalCount": 2824
+        },
+        "releases": {
+            "totalCount": 68
+        },
+        "primaryLanguage": {
+            "name": "Python"
+        },
+        "diskUsage": 274839,
+        "licenseInfo": {
+            "name": "Other",
+            "spdxId": "NOASSERTION"
+        },
+        "topics": {
+            "nodes": [
+                {
+                    "topic": {
+                        "name": "ai"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "gpt-4"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "openai"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "python"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "artificial-intelligence"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "autonomous-agents"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "llama-api"
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "nameWithOwner": "microsoft/vscode",
+        "url": "https://github.com/microsoft/vscode",
+        "createdAt": "2015-09-03T20:23:38Z",
+        "pushedAt": "2025-08-22T22:15:15Z",
+        "description": "Visual Studio Code",
+        "stargazerCount": 175990,
+        "forkCount": 34538,
+        "watchers": {
+            "totalCount": 3360
+        },
+        "issues": {
+            "totalCount": 12100
+        },
+        "issuesClosed": {
+            "totalCount": 193419
+        },
+        "pullRequests": {
+            "totalCount": 696
+        },
+        "pullRequestsMerged": {
+            "totalCount": 36269
+        },
+        "pullRequestsClosed": {
+            "totalCount": 5750
+        },
+        "releases": {
+            "totalCount": 177
+        },
+        "primaryLanguage": {
+            "name": "TypeScript"
+        },
+        "diskUsage": 1054689,
+        "licenseInfo": {
+            "name": "MIT License",
+            "spdxId": "MIT"
+        },
+        "topics": {
+            "nodes": [
+                {
+                    "topic": {
+                        "name": "editor"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "electron"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "visual-studio-code"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "typescript"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "microsoft"
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "nameWithOwner": "twbs/bootstrap",
+        "url": "https://github.com/twbs/bootstrap",
+        "createdAt": "2011-07-29T21:19:00Z",
+        "pushedAt": "2025-08-22T22:16:00Z",
+        "description": "The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.",
+        "stargazerCount": 172894,
+        "forkCount": 79127,
+        "watchers": {
+            "totalCount": 6695
+        },
+        "issues": {
+            "totalCount": 405
+        },
+        "issuesClosed": {
+            "totalCount": 22346
+        },
+        "pullRequests": {
+            "totalCount": 156
+        },
+        "pullRequestsMerged": {
+            "totalCount": 8974
+        },
+        "pullRequestsClosed": {
+            "totalCount": 6559
+        },
+        "releases": {
+            "totalCount": 93
+        },
+        "primaryLanguage": {
+            "name": "MDX"
+        },
+        "diskUsage": 258877,
+        "licenseInfo": {
+            "name": "MIT License",
+            "spdxId": "MIT"
+        },
+        "topics": {
+            "nodes": [
+                {
+                    "topic": {
+                        "name": "css"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "bootstrap"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "javascript"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "html"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "scss"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "css-framework"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "sass"
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "nameWithOwner": "flutter/flutter",
+        "url": "https://github.com/flutter/flutter",
+        "createdAt": "2015-03-06T22:54:58Z",
+        "pushedAt": "2025-08-22T22:38:32Z",
+        "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
+        "stargazerCount": 172023,
+        "forkCount": 29055,
+        "watchers": {
+            "totalCount": 3481
+        },
+        "issues": {
+            "totalCount": 11905
+        },
+        "issuesClosed": {
+            "totalCount": 96946
+        },
+        "pullRequests": {
+            "totalCount": 232
+        },
+        "pullRequestsMerged": {
+            "totalCount": 43855
+        },
+        "pullRequestsClosed": {
+            "totalCount": 19996
+        },
+        "releases": {
+            "totalCount": 7
+        },
+        "primaryLanguage": {
+            "name": "Dart"
+        },
+        "diskUsage": 403734,
+        "licenseInfo": {
+            "name": "BSD 3-Clause \"New\" or \"Revised\" License",
+            "spdxId": "BSD-3-Clause"
+        },
+        "topics": {
+            "nodes": [
+                {
+                    "topic": {
+                        "name": "mobile"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "android"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "ios"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "material-design"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "dart"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "skia"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "web"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "web-framework"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "windows"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "macos"
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "nameWithOwner": "jackfrued/Python-100-Days",
+        "url": "https://github.com/jackfrued/Python-100-Days",
+        "createdAt": "2018-03-01T16:05:52Z",
+        "pushedAt": "2025-03-28T10:29:23Z",
+        "description": "Python - 100天从新手到大师",
+        "stargazerCount": 171162,
+        "forkCount": 54398,
+        "watchers": {
+            "totalCount": 6109
+        },
+        "issues": {
+            "totalCount": 573
+        },
+        "issuesClosed": {
+            "totalCount": 118
+        },
+        "pullRequests": {
+            "totalCount": 164
+        },
+        "pullRequestsMerged": {
+            "totalCount": 13
+        },
+        "pullRequestsClosed": {
+            "totalCount": 192
+        },
+        "releases": {
+            "totalCount": 0
+        },
+        "primaryLanguage": {
+            "name": "Jupyter Notebook"
+        },
+        "diskUsage": 396875,
+        "licenseInfo": null,
+        "topics": {
+            "nodes": []
+        }
+    },
+    {
+        "nameWithOwner": "github/gitignore",
+        "url": "https://github.com/github/gitignore",
+        "createdAt": "2010-11-08T20:17:14Z",
+        "pushedAt": "2025-08-22T20:05:45Z",
+        "description": "A collection of useful .gitignore templates",
+        "stargazerCount": 168816,
+        "forkCount": 83013,
+        "watchers": {
+            "totalCount": 3373
+        },
+        "issues": {
+            "totalCount": 0
+        },
+        "issuesClosed": {
+            "totalCount": 0
+        },
+        "pullRequests": {
+            "totalCount": 309
+        },
+        "pullRequestsMerged": {
+            "totalCount": 1715
+        },
+        "pullRequestsClosed": {
+            "totalCount": 2581
+        },
+        "releases": {
+            "totalCount": 0
+        },
+        "primaryLanguage": null,
+        "diskUsage": 2934,
+        "licenseInfo": {
+            "name": "Creative Commons Zero v1.0 Universal",
+            "spdxId": "CC0-1.0"
+        },
+        "topics": {
+            "nodes": [
+                {
+                    "topic": {
+                        "name": "gitignore"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "git"
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "nameWithOwner": "jlevy/the-art-of-command-line",
+        "url": "https://github.com/jlevy/the-art-of-command-line",
+        "createdAt": "2015-05-20T15:11:03Z",
+        "pushedAt": "2024-06-25T18:13:44Z",
+        "description": "Master the command line, in one page",
+        "stargazerCount": 157864,
+        "forkCount": 14746,
+        "watchers": {
+            "totalCount": 2828
+        },
+        "issues": {
+            "totalCount": 122
+        },
+        "issuesClosed": {
+            "totalCount": 136
+        },
+        "pullRequests": {
+            "totalCount": 129
+        },
+        "pullRequestsMerged": {
+            "totalCount": 317
+        },
+        "pullRequestsClosed": {
+            "totalCount": 150
+        },
+        "releases": {
+            "totalCount": 0
+        },
+        "primaryLanguage": null,
+        "diskUsage": 2772,
+        "licenseInfo": null,
+        "topics": {
+            "nodes": [
+                {
+                    "topic": {
+                        "name": "bash"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "unix"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "documentation"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "linux"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "macos"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "windows"
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "nameWithOwner": "AUTOMATIC1111/stable-diffusion-webui",
+        "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+        "createdAt": "2022-08-22T14:05:26Z",
+        "pushedAt": "2025-05-03T06:17:03Z",
+        "description": "Stable Diffusion web UI",
+        "stargazerCount": 155839,
+        "forkCount": 28898,
+        "watchers": {
+            "totalCount": 1147
+        },
+        "issues": {
+            "totalCount": 2363
+        },
+        "issuesClosed": {
+            "totalCount": 5467
+        },
+        "pullRequests": {
+            "totalCount": 61
+        },
+        "pullRequestsMerged": {
+            "totalCount": 1874
+        },
+        "pullRequestsClosed": {
+            "totalCount": 1317
+        },
+        "releases": {
+            "totalCount": 27
+        },
+        "primaryLanguage": {
+            "name": "Python"
+        },
+        "diskUsage": 36427,
+        "licenseInfo": {
+            "name": "GNU Affero General Public License v3.0",
+            "spdxId": "AGPL-3.0"
+        },
+        "topics": {
+            "nodes": [
+                {
+                    "topic": {
+                        "name": "deep-learning"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "diffusion"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "image-generation"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "image2image"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "img2img"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "text2image"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "txt2img"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "ai"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "ai-art"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "gradio"
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "nameWithOwner": "Snailclimb/JavaGuide",
+        "url": "https://github.com/Snailclimb/JavaGuide",
+        "createdAt": "2018-05-07T13:27:00Z",
+        "pushedAt": "2025-08-20T02:17:55Z",
+        "description": "「Java学习+面试指南」一份涵盖大部分 Java 程序员所需要掌握的核心知识。准备 Java 面试，首选 JavaGuide！",
+        "stargazerCount": 151377,
+        "forkCount": 45974,
+        "watchers": {
+            "totalCount": 4482
+        },
+        "issues": {
+            "totalCount": 72
+        },
+        "issuesClosed": {
+            "totalCount": 1032
+        },
+        "pullRequests": {
+            "totalCount": 0
+        },
+        "pullRequestsMerged": {
+            "totalCount": 1180
+        },
+        "pullRequestsClosed": {
+            "totalCount": 313
+        },
+        "releases": {
+            "totalCount": 0
+        },
+        "primaryLanguage": {
+            "name": "Java"
+        },
+        "diskUsage": 177406,
+        "licenseInfo": {
+            "name": "Apache License 2.0",
+            "spdxId": "Apache-2.0"
+        },
+        "topics": {
+            "nodes": [
+                {
+                    "topic": {
+                        "name": "java"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "jvm"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "interview"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "redis"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "spring"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "mysql"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "zookeeper"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "algorithms"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "system"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "system-design"
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "nameWithOwner": "ollama/ollama",
+        "url": "https://github.com/ollama/ollama",
+        "createdAt": "2023-06-26T19:39:32Z",
+        "pushedAt": "2025-08-22T22:41:50Z",
+        "description": "Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models.",
+        "stargazerCount": 150725,
+        "forkCount": 12890,
+        "watchers": {
+            "totalCount": 845
+        },
+        "issues": {
+            "totalCount": 1775
+        },
+        "issuesClosed": {
+            "totalCount": 6236
+        },
+        "pullRequests": {
+            "totalCount": 349
+        },
+        "pullRequestsMerged": {
+            "totalCount": 2474
+        },
+        "pullRequestsClosed": {
+            "totalCount": 949
+        },
+        "releases": {
+            "totalCount": 143
+        },
+        "primaryLanguage": {
+            "name": "Go"
+        },
+        "diskUsage": 48986,
+        "licenseInfo": {
+            "name": "MIT License",
+            "spdxId": "MIT"
+        },
+        "topics": {
+            "nodes": [
+                {
+                    "topic": {
+                        "name": "llama"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "llm"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "llama2"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "llms"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "go"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "golang"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "ollama"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "mistral"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "gemma"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "llama3"
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "nameWithOwner": "avelino/awesome-go",
+        "url": "https://github.com/avelino/awesome-go",
+        "createdAt": "2014-07-06T13:42:15Z",
+        "pushedAt": "2025-08-21T02:49:55Z",
+        "description": "A curated list of awesome Go frameworks, libraries and software",
+        "stargazerCount": 150555,
+        "forkCount": 12515,
+        "watchers": {
+            "totalCount": 2822
+        },
+        "issues": {
+            "totalCount": 6
+        },
+        "issuesClosed": {
+            "totalCount": 681
+        },
+        "pullRequests": {
+            "totalCount": 137
+        },
+        "pullRequestsMerged": {
+            "totalCount": 3458
+        },
+        "pullRequestsClosed": {
+            "totalCount": 1311
+        },
+        "releases": {
+            "totalCount": 0
+        },
+        "primaryLanguage": {
+            "name": "Go"
+        },
+        "diskUsage": 10488,
+        "licenseInfo": {
+            "name": "MIT License",
+            "spdxId": "MIT"
+        },
+        "topics": {
+            "nodes": [
+                {
+                    "topic": {
+                        "name": "golang"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "golang-library"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "go"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "awesome"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "awesome-list"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "hacktoberfest"
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "nameWithOwner": "huggingface/transformers",
+        "url": "https://github.com/huggingface/transformers",
+        "createdAt": "2018-10-29T13:56:00Z",
+        "pushedAt": "2025-08-22T22:07:10Z",
+        "description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. ",
+        "stargazerCount": 148670,
+        "forkCount": 30138,
+        "watchers": {
+            "totalCount": 1161
+        },
+        "issues": {
+            "totalCount": 1083
+        },
+        "issuesClosed": {
+            "totalCount": 16737
+        },
+        "pullRequests": {
+            "totalCount": 875
+        },
+        "pullRequestsMerged": {
+            "totalCount": 16680
+        },
+        "pullRequestsClosed": {
+            "totalCount": 4440
+        },
+        "releases": {
+            "totalCount": 224
+        },
+        "primaryLanguage": {
+            "name": "Python"
+        },
+        "diskUsage": 352796,
+        "licenseInfo": {
+            "name": "Apache License 2.0",
+            "spdxId": "Apache-2.0"
+        },
+        "topics": {
+            "nodes": [
+                {
+                    "topic": {
+                        "name": "nlp"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "natural-language-processing"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "pytorch"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "pytorch-transformers"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "transformer"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "model-hub"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "pretrained-models"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "speech-recognition"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "hacktoberfest"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "python"
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "nameWithOwner": "airbnb/javascript",
+        "url": "https://github.com/airbnb/javascript",
+        "createdAt": "2012-11-01T23:13:50Z",
+        "pushedAt": "2024-12-09T06:56:18Z",
+        "description": "JavaScript Style Guide",
+        "stargazerCount": 147289,
+        "forkCount": 26784,
+        "watchers": {
+            "totalCount": 3722
+        },
+        "issues": {
+            "totalCount": 98
+        },
+        "issuesClosed": {
+            "totalCount": 1269
+        },
+        "pullRequests": {
+            "totalCount": 79
+        },
+        "pullRequestsMerged": {
+            "totalCount": 810
+        },
+        "pullRequestsClosed": {
+            "totalCount": 769
+        },
+        "releases": {
+            "totalCount": 0
+        },
+        "primaryLanguage": {
+            "name": "JavaScript"
+        },
+        "diskUsage": 3689,
+        "licenseInfo": {
+            "name": "MIT License",
+            "spdxId": "MIT"
+        },
+        "topics": {
+            "nodes": [
+                {
+                    "topic": {
+                        "name": "javascript"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "eslint"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "naming-conventions"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "arrow-functions"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "style-guide"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "style-linter"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "es6"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "es2015"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "linting"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "styleguide"
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "nameWithOwner": "massgravel/Microsoft-Activation-Scripts",
+        "url": "https://github.com/massgravel/Microsoft-Activation-Scripts",
+        "createdAt": "2020-01-12T23:03:34Z",
+        "pushedAt": "2025-08-10T21:18:38Z",
+        "description": "Open-source Windows and Office activator featuring HWID, Ohook, TSforge, KMS38, and Online KMS activation methods, along with advanced troubleshooting.",
+        "stargazerCount": 145612,
+        "forkCount": 14149,
+        "watchers": {
+            "totalCount": 1297
+        },
+        "issues": {
+            "totalCount": 0
+        },
+        "issuesClosed": {
+            "totalCount": 721
+        },
+        "pullRequests": {
+            "totalCount": 0
+        },
+        "pullRequestsMerged": {
+            "totalCount": 6
+        },
+        "pullRequestsClosed": {
+            "totalCount": 39
+        },
+        "releases": {
+            "totalCount": 24
+        },
+        "primaryLanguage": {
+            "name": "Batchfile"
+        },
+        "diskUsage": 12049,
+        "licenseInfo": {
+            "name": "GNU General Public License v3.0",
+            "spdxId": "GPL-3.0"
+        },
+        "topics": {
+            "nodes": [
+                {
+                    "topic": {
+                        "name": "hwid"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "kms38"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "kms"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "activator"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "massgrave"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "massgravel"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "windows"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "windows-10"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "windows-11"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "office"
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "nameWithOwner": "ytdl-org/youtube-dl",
+        "url": "https://github.com/ytdl-org/youtube-dl",
+        "createdAt": "2010-10-31T14:35:07Z",
+        "pushedAt": "2025-05-04T11:53:05Z",
+        "description": "Command-line program to download videos from YouTube.com and other video sites",
+        "stargazerCount": 136944,
+        "forkCount": 10440,
+        "watchers": {
+            "totalCount": 2177
+        },
+        "issues": {
+            "totalCount": 3643
+        },
+        "issuesClosed": {
+            "totalCount": 23125
+        },
+        "pullRequests": {
+            "totalCount": 496
+        },
+        "pullRequestsMerged": {
+            "totalCount": 1642
+        },
+        "pullRequestsClosed": {
+            "totalCount": 2837
+        },
+        "releases": {
+            "totalCount": 341
+        },
+        "primaryLanguage": {
+            "name": "Python"
+        },
+        "diskUsage": 65579,
+        "licenseInfo": {
+            "name": "The Unlicense",
+            "spdxId": "Unlicense"
+        },
+        "topics": {
+            "nodes": []
+        }
+    },
+    {
+        "nameWithOwner": "vercel/next.js",
+        "url": "https://github.com/vercel/next.js",
+        "createdAt": "2016-10-05T23:32:51Z",
+        "pushedAt": "2025-08-22T22:36:33Z",
+        "description": "The React Framework",
+        "stargazerCount": 133928,
+        "forkCount": 29133,
+        "watchers": {
+            "totalCount": 1484
+        },
+        "issues": {
+            "totalCount": 2323
+        },
+        "issuesClosed": {
+            "totalCount": 21066
+        },
+        "pullRequests": {
+            "totalCount": 984
+        },
+        "pullRequestsMerged": {
+            "totalCount": 23660
+        },
+        "pullRequestsClosed": {
+            "totalCount": 6658
+        },
+        "releases": {
+            "totalCount": 1000
+        },
+        "primaryLanguage": {
+            "name": "JavaScript"
+        },
+        "diskUsage": 2323884,
+        "licenseInfo": {
+            "name": "MIT License",
+            "spdxId": "MIT"
+        },
+        "topics": {
+            "nodes": [
+                {
+                    "topic": {
+                        "name": "react"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "server-rendering"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "universal"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "node"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "components"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "browser"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "nextjs"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "vercel"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "static-site-generator"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "hybrid"
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "nameWithOwner": "f/awesome-chatgpt-prompts",
+        "url": "https://github.com/f/awesome-chatgpt-prompts",
+        "createdAt": "2022-12-05T13:54:13Z",
+        "pushedAt": "2025-08-02T07:30:17Z",
+        "description": "This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.",
+        "stargazerCount": 133050,
+        "forkCount": 17665,
+        "watchers": {
+            "totalCount": 1536
+        },
+        "issues": {
+            "totalCount": 0
+        },
+        "issuesClosed": {
+            "totalCount": 0
+        },
+        "pullRequests": {
+            "totalCount": 280
+        },
+        "pullRequestsMerged": {
+            "totalCount": 171
+        },
+        "pullRequestsClosed": {
+            "totalCount": 267
+        },
+        "releases": {
+            "totalCount": 0
+        },
+        "primaryLanguage": {
+            "name": "JavaScript"
+        },
+        "diskUsage": 1737,
+        "licenseInfo": {
+            "name": "Creative Commons Zero v1.0 Universal",
+            "spdxId": "CC0-1.0"
+        },
+        "topics": {
+            "nodes": [
+                {
+                    "topic": {
+                        "name": "chatbot"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "chatgpt"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "chatgpt-api"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "language"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "bots"
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "nameWithOwner": "n8n-io/n8n",
+        "url": "https://github.com/n8n-io/n8n",
+        "createdAt": "2019-06-22T09:24:21Z",
+        "pushedAt": "2025-08-22T19:52:22Z",
+        "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+        "stargazerCount": 131907,
+        "forkCount": 41000,
+        "watchers": {
+            "totalCount": 786
+        },
+        "issues": {
+            "totalCount": 625
+        },
+        "issuesClosed": {
+            "totalCount": 4558
+        },
+        "pullRequests": {
+            "totalCount": 439
+        },
+        "pullRequestsMerged": {
+            "totalCount": 10641
+        },
+        "pullRequestsClosed": {
+            "totalCount": 2389
+        },
+        "releases": {
+            "totalCount": 382
+        },
+        "primaryLanguage": {
+            "name": "TypeScript"
+        },
+        "diskUsage": 245524,
+        "licenseInfo": {
+            "name": "Other",
+            "spdxId": "NOASSERTION"
+        },
+        "topics": {
+            "nodes": [
+                {
+                    "topic": {
+                        "name": "automation"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "ipaas"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "n8n"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "workflow"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "typescript"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "self-hosted"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "integrations"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "workflow-automation"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "cli"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "development"
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "nameWithOwner": "golang/go",
+        "url": "https://github.com/golang/go",
+        "createdAt": "2014-08-19T04:33:40Z",
+        "pushedAt": "2025-08-22T21:58:31Z",
+        "description": "The Go programming language",
+        "stargazerCount": 129536,
+        "forkCount": 18343,
+        "watchers": {
+            "totalCount": 3363
+        },
+        "issues": {
+            "totalCount": 9174
+        },
+        "issuesClosed": {
+            "totalCount": 58766
+        },
+        "pullRequests": {
+            "totalCount": 332
+        },
+        "pullRequestsMerged": {
+            "totalCount": 1
+        },
+        "pullRequestsClosed": {
+            "totalCount": 4248
+        },
+        "releases": {
+            "totalCount": 0
+        },
+        "primaryLanguage": {
+            "name": "Go"
+        },
+        "diskUsage": 407619,
+        "licenseInfo": {
+            "name": "BSD 3-Clause \"New\" or \"Revised\" License",
+            "spdxId": "BSD-3-Clause"
+        },
+        "topics": {
+            "nodes": [
+                {
+                    "topic": {
+                        "name": "programming-language"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "language"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "go"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "golang"
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "nameWithOwner": "yangshun/tech-interview-handbook",
+        "url": "https://github.com/yangshun/tech-interview-handbook",
+        "createdAt": "2016-07-05T05:00:48Z",
+        "pushedAt": "2025-07-10T00:25:52Z",
+        "description": "💯 Curated coding interview preparation materials for busy software engineers",
+        "stargazerCount": 128969,
+        "forkCount": 15693,
+        "watchers": {
+            "totalCount": 2177
+        },
+        "issues": {
+            "totalCount": 41
+        },
+        "issuesClosed": {
+            "totalCount": 74
+        },
+        "pullRequests": {
+            "totalCount": 13
+        },
+        "pullRequestsMerged": {
+            "totalCount": 481
+        },
+        "pullRequestsClosed": {
+            "totalCount": 76
+        },
+        "releases": {
+            "totalCount": 0
+        },
+        "primaryLanguage": {
+            "name": "TypeScript"
+        },
+        "diskUsage": 32795,
+        "licenseInfo": {
+            "name": "MIT License",
+            "spdxId": "MIT"
+        },
+        "topics": {
+            "nodes": [
+                {
+                    "topic": {
+                        "name": "interview-questions"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "coding-interviews"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "interview-practice"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "interview-preparation"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "algorithm"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "algorithms"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "system-design"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "behavioral-interviews"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "algorithm-interview"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "algorithm-interview-questions"
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "nameWithOwner": "labuladong/fucking-algorithm",
+        "url": "https://github.com/labuladong/fucking-algorithm",
+        "createdAt": "2020-02-19T09:01:23Z",
+        "pushedAt": "2025-01-31T06:30:22Z",
+        "description": "刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why. ",
+        "stargazerCount": 128961,
+        "forkCount": 23412,
+        "watchers": {
+            "totalCount": 2288
+        },
+        "issues": {
+            "totalCount": 2
+        },
+        "issuesClosed": {
+            "totalCount": 916
+        },
+        "pullRequests": {
+            "totalCount": 41
+        },
+        "pullRequestsMerged": {
+            "totalCount": 238
+        },
+        "pullRequestsClosed": {
+            "totalCount": 226
+        },
+        "releases": {
+            "totalCount": 1
+        },
+        "primaryLanguage": {
+            "name": "Markdown"
+        },
+        "diskUsage": 126276,
+        "licenseInfo": null,
+        "topics": {
+            "nodes": [
+                {
+                    "topic": {
+                        "name": "leetcode"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "algorithms"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "interview-questions"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "data-structures"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "kmp"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "dynamic-programming"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "computer-science"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "dynamic-programming-algorithm"
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "nameWithOwner": "Genymobile/scrcpy",
+        "url": "https://github.com/Genymobile/scrcpy",
+        "createdAt": "2017-11-21T18:00:27Z",
+        "pushedAt": "2025-08-12T17:04:09Z",
+        "description": "Display and control your Android device",
+        "stargazerCount": 126955,
+        "forkCount": 11899,
+        "watchers": {
+            "totalCount": 1313
+        },
+        "issues": {
+            "totalCount": 2449
+        },
+        "issuesClosed": {
+            "totalCount": 3171
+        },
+        "pullRequests": {
+            "totalCount": 64
+        },
+        "pullRequestsMerged": {
+            "totalCount": 113
+        },
+        "pullRequestsClosed": {
+            "totalCount": 387
+        },
+        "releases": {
+            "totalCount": 47
+        },
+        "primaryLanguage": {
+            "name": "C"
+        },
+        "diskUsage": 7586,
+        "licenseInfo": {
+            "name": "Apache License 2.0",
+            "spdxId": "Apache-2.0"
+        },
+        "topics": {
+            "nodes": [
+                {
+                    "topic": {
+                        "name": "android"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "c"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "sdl2"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "libav"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "ffmpeg"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "screen"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "mirroring"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "recording"
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "nameWithOwner": "521xueweihan/HelloGitHub",
+        "url": "https://github.com/521xueweihan/HelloGitHub",
+        "createdAt": "2016-05-04T06:24:11Z",
+        "pushedAt": "2025-07-30T17:30:00Z",
+        "description": ":octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.",
+        "stargazerCount": 125962,
+        "forkCount": 10676,
+        "watchers": {
+            "totalCount": 4038
+        },
+        "issues": {
+            "totalCount": 214
+        },
+        "issuesClosed": {
+            "totalCount": 2626
+        },
+        "pullRequests": {
+            "totalCount": 2
+        },
+        "pullRequestsMerged": {
+            "totalCount": 16
+        },
+        "pullRequestsClosed": {
+            "totalCount": 34
+        },
+        "releases": {
+            "totalCount": 57
+        },
+        "primaryLanguage": {
+            "name": "Python"
+        },
+        "diskUsage": 8752,
+        "licenseInfo": null,
+        "topics": {
+            "nodes": [
+                {
+                    "topic": {
+                        "name": "github"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "hellogithub"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "python"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "awesome"
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "nameWithOwner": "Chalarangelo/30-seconds-of-code",
+        "url": "https://github.com/Chalarangelo/30-seconds-of-code",
+        "createdAt": "2017-11-29T17:35:03Z",
+        "pushedAt": "2025-08-21T04:46:35Z",
+        "description": "Coding articles to level up your development skills",
+        "stargazerCount": 125055,
+        "forkCount": 12302,
+        "watchers": {
+            "totalCount": 2594
+        },
+        "issues": {
+            "totalCount": 0
+        },
+        "issuesClosed": {
+            "totalCount": 300
+        },
+        "pullRequests": {
+            "totalCount": 0
+        },
+        "pullRequestsMerged": {
+            "totalCount": 827
+        },
+        "pullRequestsClosed": {
+            "totalCount": 806
+        },
+        "releases": {
+            "totalCount": 12
+        },
+        "primaryLanguage": {
+            "name": "JavaScript"
+        },
+        "diskUsage": 740362,
+        "licenseInfo": {
+            "name": "Creative Commons Attribution 4.0 International",
+            "spdxId": "CC-BY-4.0"
+        },
+        "topics": {
+            "nodes": [
+                {
+                    "topic": {
+                        "name": "awesome-list"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "javascript"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "snippets"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "learning-resources"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "learn-to-code"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "programming"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "education"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "es6-javascript"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "nodejs"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "css"
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "nameWithOwner": "facebook/react-native",
+        "url": "https://github.com/facebook/react-native",
+        "createdAt": "2015-01-09T18:10:16Z",
+        "pushedAt": "2025-08-22T19:09:42Z",
+        "description": "A framework for building native applications using React",
+        "stargazerCount": 123506,
+        "forkCount": 24824,
+        "watchers": {
+            "totalCount": 3571
+        },
+        "issues": {
+            "totalCount": 655
+        },
+        "issuesClosed": {
+            "totalCount": 26550
+        },
+        "pullRequests": {
+            "totalCount": 375
+        },
+        "pullRequestsMerged": {
+            "totalCount": 930
+        },
+        "pullRequestsClosed": {
+            "totalCount": 22926
+        },
+        "releases": {
+            "totalCount": 410
+        },
+        "primaryLanguage": {
+            "name": "C++"
+        },
+        "diskUsage": 932027,
+        "licenseInfo": {
+            "name": "MIT License",
+            "spdxId": "MIT"
+        },
+        "topics": {
+            "nodes": [
+                {
+                    "topic": {
+                        "name": "android"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "app-framework"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "ios"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "mobile"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "mobile-development"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "react-native"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "cross-platform"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "react"
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "nameWithOwner": "yt-dlp/yt-dlp",
+        "url": "https://github.com/yt-dlp/yt-dlp",
+        "createdAt": "2020-10-26T04:22:55Z",
+        "pushedAt": "2025-08-22T03:15:33Z",
+        "description": "A feature-rich command-line audio/video downloader",
+        "stargazerCount": 123394,
+        "forkCount": 9828,
+        "watchers": {
+            "totalCount": 640
+        },
+        "issues": {
+            "totalCount": 1595
+        },
+        "issuesClosed": {
+            "totalCount": 8182
+        },
+        "pullRequests": {
+            "totalCount": 405
+        },
+        "pullRequestsMerged": {
+            "totalCount": 2906
+        },
+        "pullRequestsClosed": {
+            "totalCount": 707
+        },
+        "releases": {
+            "totalCount": 117
+        },
+        "primaryLanguage": {
+            "name": "Python"
+        },
+        "diskUsage": 56484,
+        "licenseInfo": {
+            "name": "The Unlicense",
+            "spdxId": "Unlicense"
+        },
+        "topics": {
+            "nodes": [
+                {
+                    "topic": {
+                        "name": "youtube-dl"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "python"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "sponsorblock"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "yt-dlp"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "youtube-downloader"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "cli"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "downloader"
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "nameWithOwner": "microsoft/PowerToys",
+        "url": "https://github.com/microsoft/PowerToys",
+        "createdAt": "2019-05-01T17:44:02Z",
+        "pushedAt": "2025-08-22T19:20:23Z",
+        "description": "Windows system utilities to maximize productivity",
+        "stargazerCount": 122475,
+        "forkCount": 7314,
+        "watchers": {
+            "totalCount": 1163
+        },
+        "issues": {
+            "totalCount": 7008
+        },
+        "issuesClosed": {
+            "totalCount": 27567
+        },
+        "pullRequests": {
+            "totalCount": 74
+        },
+        "pullRequestsMerged": {
+            "totalCount": 5662
+        },
+        "pullRequestsClosed": {
+            "totalCount": 737
+        },
+        "releases": {
+            "totalCount": 117
+        },
+        "primaryLanguage": {
+            "name": "C#"
+        },
+        "diskUsage": 444065,
+        "licenseInfo": {
+            "name": "MIT License",
+            "spdxId": "MIT"
+        },
+        "topics": {
+            "nodes": [
+                {
+                    "topic": {
+                        "name": "powertoys"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "desktop"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "windows"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "fancyzones"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "microsoft-powertoys"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "powerrename"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "keyboard-manager"
+                    }
+                },
+                {
+                    "topic": {
+                        "name": "color-picker"
                     }
                 }
             ]

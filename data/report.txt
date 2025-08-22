@@ -2,22 +2,22 @@
 RELATÓRIO DOS REPOSITÓRIOS
 
 RQ01: Sistemas populares são maduros/antigos?
-- Idade mediana (dias): 3506.5
+- Idade mediana (dias): 3349.5
 
 RQ02: Sistemas populares recebem muita contribuição externa?
-- Pull requests aceitas medianas: 873.0
+- Pull requests aceitas medianas: 1102.0
 
 RQ03: Sistemas populares lançam releases com frequência?
 - Releases medianos: 0.0
 
 RQ04: Sistemas populares são atualizados com frequência?
-- Dias desde última atualização (mediana): 33.5
+- Dias desde última atualização (mediana): 4.0
 
 RQ05: Sistemas populares são escritos nas linguagens mais populares?
-- Contagem por linguagem: Counter({'Python': 5, 'TypeScript': 3, 'JavaScript': 2, 'Markdown': 1, 'C': 1, 'C++': 1, 'HTML': 1})
+- Contagem por linguagem: Counter({'Python': 11, 'TypeScript': 6, 'JavaScript': 6, 'Go': 3, 'Markdown': 2, 'C': 2, 'C++': 2, 'HTML': 1, 'Shell': 1, 'MDX': 1, 'Dart': 1, 'Jupyter Notebook': 1, 'Java': 1, 'Batchfile': 1, 'C#': 1})
 
 RQ06: Sistemas populares possuem um alto percentual de issues fechadas?
-- Percentual mediano de issues fechadas: 0.93
+- Percentual mediano de issues fechadas: 0.91
 
 Hipóteses informais:
 1. Repositórios com mais stars tendem a ser mais antigos.
