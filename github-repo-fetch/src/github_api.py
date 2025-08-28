@@ -2,7 +2,7 @@ import requests
 import time
 
 GITHUB_API_URL = "https://api.github.com/graphql"
-GITHUB_TOKEN = "TOKEN"
+GITHUB_TOKEN = "TOKEN" 
 HEADERS = {
     "Authorization": f"bearer {GITHUB_TOKEN}",
     "Content-Type": "application/json",
@@ -13,6 +13,15 @@ def run_query(query, variables, max_retries=5):
         try:
             resp = requests.post(GITHUB_API_URL, json={"query": query, "variables": variables}, headers=HEADERS, timeout=30)
             print(f"HTTP Status: {resp.status_code}")
+            
+            # Tratamento de rate limit
+            if resp.status_code == 403 and "X-RateLimit-Remaining" in resp.headers:
+                reset_time = int(resp.headers.get("X-RateLimit-Reset", time.time() + 60))
+                wait_time = max(0, reset_time - int(time.time())) + 5
+                print(f"[WARN] Rate limit atingido. Esperando {wait_time} segundos...")
+                time.sleep(wait_time)
+                continue
+
             if resp.status_code == 200:
                 result = resp.json()
                 if "errors" in result:

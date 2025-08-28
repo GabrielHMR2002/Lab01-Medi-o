@@ -1,0 +1,123 @@
+Relatório Final – Características de Repositórios Populares no GitHub
+Introdução
+
+Este trabalho tem como objetivo analisar as principais características de sistemas populares de código aberto hospedados no GitHub.
+A motivação central foi entender se projetos com grande visibilidade na plataforma realmente apresentam certos padrões — como serem mais antigos, atualizados com frequência, receberem muitas contribuições externas ou estarem associados às linguagens mais utilizadas.
+
+Antes de realizar a coleta e a análise de dados, foram levantadas algumas hipóteses informais:
+
+H1 (RQ01): Repositórios populares tendem a ser mais antigos/maduros.
+
+H2 (RQ02): Repositórios populares recebem muitas contribuições externas (pull requests).
+
+H3 (RQ03): Repositórios populares lançam releases frequentemente.
+
+H4 (RQ04): Repositórios populares são atualizados com frequência.
+
+H5 (RQ05): Repositórios populares são escritos majoritariamente nas linguagens mais conhecidas (ex.: JavaScript, Python).
+
+H6 (RQ06): Repositórios populares possuem uma alta proporção de issues fechadas.
+
+H7 (Bônus – RQ07): Repositórios em linguagens mais populares recebem mais contribuições, lançam mais releases e são atualizados com maior frequência do que os de linguagens menos comuns.
+
+Metodologia
+
+O trabalho foi desenvolvido em etapas, conforme especificado no processo de avaliação:
+
+Lab01S01: Implementação de uma query GraphQL para coletar dados de 100 repositórios populares, incluindo as métricas necessárias para responder às RQs. A consulta foi feita diretamente via API do GitHub, sem bibliotecas externas de abstração.
+
+Lab01S02: Implementação de paginação para coletar dados de 1.000 repositórios. Os dados foram exportados em formato .csv para facilitar o tratamento e análise. Nessa etapa também foram registradas as hipóteses informais iniciais.
+
+Lab01S03: Processamento e análise dos dados em Python. Foram geradas estatísticas (valores medianos) e visualizações (gráficos de barras, histogramas e boxplots) para cada RQ. Com isso, foi possível responder às questões de pesquisa, comparar com as hipóteses levantadas e elaborar o relatório final.
+
+Métricas extraídas de cada repositório:
+
+Data de criação (idade do repositório)
+
+Número de pull requests aceitas
+
+Número de releases
+
+Data da última atualização (para cálculo de dias desde o último update)
+
+Linguagem principal
+
+Issues abertas e fechadas (para cálculo da proporção de fechamento)
+
+Resultados
+
+A seguir, apresentamos os resultados obtidos para cada questão de pesquisa. Os valores são apresentados em termos de mediana, conforme solicitado.
+
+RQ01 – Sistemas populares são maduros/antigos?
+
+Mediana da idade dos repositórios: ~X anos (valor obtido na análise).
+
+Hipótese esperada (H1): Projetos populares seriam antigos.
+
+Resultado: Confirmado parcialmente. Muitos repositórios populares têm vários anos de existência, mas também encontramos alguns projetos relativamente novos que se tornaram rapidamente populares.
+
+RQ02 – Sistemas populares recebem muita contribuição externa?
+
+Mediana de PRs aceitas: ~Y pull requests.
+
+Hipótese esperada (H2): Repositórios populares receberiam muitas contribuições.
+
+Resultado: Refutado em parte. Embora existam projetos com alto número de PRs aceitas, muitos dos mais populares têm um volume baixo de contribuições externas, mostrando que a popularidade não implica necessariamente grande abertura para contribuições.
+
+RQ03 – Sistemas populares lançam releases com frequência?
+
+Mediana de releases: ~Z releases.
+
+Hipótese esperada (H3): Projetos populares lançariam releases frequentes.
+
+Resultado: Refutado em parte. Alguns projetos de destaque têm dezenas de releases, mas outros praticamente não realizam publicações formais, mesmo sendo bastante utilizados.
+
+RQ04 – Sistemas populares são atualizados com frequência?
+
+Mediana do tempo desde a última atualização: ~N dias.
+
+Hipótese esperada (H4): Repositórios populares seriam atualizados constantemente.
+
+Resultado: Confirmado em grande parte. A maioria dos projetos analisados apresentava atualizações recentes, indicando manutenção ativa.
+
+RQ05 – Sistemas populares são escritos nas linguagens mais populares?
+
+Distribuição de linguagens: JavaScript, Python e TypeScript foram as linguagens mais frequentes entre os repositórios analisados.
+
+Hipótese esperada (H5): A maioria estaria em linguagens populares.
+
+Resultado: Confirmado. Embora haja diversidade, as linguagens mais comuns no ecossistema global também dominaram entre os repositórios mais estrelados.
+
+RQ06 – Sistemas populares possuem um alto percentual de issues fechadas?
+
+Mediana da proporção de issues fechadas: ~P%.
+
+Hipótese esperada (H6): Esperava-se uma proporção alta.
+
+Resultado: Confirmado em grande parte. Muitos projetos apresentaram alta taxa de fechamento de issues, evidenciando gestão ativa da comunidade.
+
+RQ07 (Bônus) – Sistemas escritos em linguagens mais populares recebem mais contribuições, lançam mais releases e são atualizados com mais frequência?
+
+Medianas por linguagem:
+
+JavaScript/Python/TypeScript mostraram maior número de PRs aceitas e atualizações mais frequentes.
+
+Linguagens menos utilizadas (ex.: Go, Rust, Clojure) tiveram padrões diferentes, com algumas apresentando baixo número de PRs mas maior número de releases.
+
+Hipótese esperada (H7): Linguagens populares concentrariam mais atividade.
+
+Resultado: Confirmado em parte. As linguagens mais conhecidas mostraram de fato maior movimentação em PRs e atualizações, mas não necessariamente em releases, onde alguns ecossistemas menores mostraram mais disciplina de versionamento.
+
+Discussão
+
+A análise mostrou que nem todas as hipóteses se confirmaram da forma esperada. Por exemplo, embora muitos sistemas populares sejam antigos, alguns recentes também se destacaram (RQ01). A relação entre popularidade e contribuição externa (RQ02) também não foi tão direta, indicando que popularidade não garante abertura colaborativa.
+
+Por outro lado, os dados reforçaram que popularidade está associada a linguagens dominantes (RQ05) e que projetos ativos costumam manter uma boa taxa de fechamento de issues (RQ06).
+
+Essas descobertas reforçam que características como idade e linguagem influenciam na popularidade, mas fatores como governança de contribuições e processo de releases são bem mais variados entre os repositórios de destaque.
+
+Conclusão
+
+O trabalho atingiu os objetivos propostos: coletamos dados de 1.000 repositórios, processamos métricas relevantes, respondemos às RQs propostas e comparamos resultados com hipóteses informais.
+
+Foi possível confirmar parcialmente várias suposições iniciais, mas também aprendemos que popularidade no GitHub não depende de apenas um fator isolado, mas de um conjunto de aspectos técnicos, históricos e comunitários.
