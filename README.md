@@ -276,17 +276,7 @@ Entre os insights inesperados destacam-se:
 
 ---
 
-## 8. Trabalhos Futuros  
-
-- Análise longitudinal da evolução dos projetos;  
-- Inclusão de métricas de qualidade de código;  
-- Estudo da rede de contribuidores e comunidades;  
-- Predição de crescimento de popularidade;  
-- Comparação com outras plataformas de hospedagem.  
-
----
-
-## 9. Conclusão  
+## 8. Conclusão  
 
 A análise dos 1.000 repositórios mais populares do GitHub permitiu identificar características comuns de projetos bem-sucedidos no contexto open-source. Projetos populares tendem a ser **ativamente mantidos, colaborativos, organizados na gestão de issues e com cadência regular de releases**.  
 
